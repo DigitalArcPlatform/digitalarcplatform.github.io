@@ -42,19 +42,20 @@ repository: 'digitalarcplatform/digitalarcplatform.github.io' # change this to y
 #---------------------
 
 # Title of your website
-title: "DigitalArc"
+title: "DigitalArc Toolkit"
 
 # Subtitle of your website. Leave blank if you want to.
 subtitle: "An exhibit platform for collective storytelling & community archives"
 
 # A longer description of your site (max 150 words). Helps search engines find you.
-description: "DigitalArc Community Archiving Template - Demo Site"
+description: "A collective storytelling and community archiving toolkit for planning community-archive events and hosting community archives online."
 
 # These credits show up in the includes/_footer.html
 # Main author of the website.
 author: "DigitalArc"
 authorname : "DigitalArc: An exhibit platform for collective storyelling & community archives"
 sitelogo: "site_logo.jpg"
+placeholderimg: placeholder.png
 
 # What year did you start up this community project?
 sitedate : 2024
@@ -69,7 +70,7 @@ instagram :
 
 # If you need to know how many people visit your site, go to https://analytics.google.com/
 # When you finish the setup assistant, it will give you a Measurement ID: G-ABCDEFGHIJ
-google_g4_analytics_id: 
+google_g4_analytics_id: G-LVREG1Y1DT
 
 ##############################################
 # FONTS AND COLORS
