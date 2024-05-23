@@ -1,15 +1,73 @@
 ---
+layout: blank
 title: DigitalArc Jekyll Theme
-layout: default
 permalink: /
 ---
+{% capture timestamp %}January 1, {{site.sitedate}}{% endcapture %}
+{% assign SiteYear = timestamp | date: "%Y" %}
+{% assign NowYear = "now" | date: "%Y" %}
+
+<html class="no-js" lang="en" dir="ltr">
+<head>
+{% include _head.html %}
+</head>
+<body id="the-body">
 
 
-<div style="background-color: #fcf0ee; padding-bottom: .25rem; border-top, border-bottom: 3px dotted #D94f30">
+<!--
+==================================================
+Body
+================================================== -->
+
+<div data-sticky-container style="width: 100%" class="accentbg">
+<div data-sticky data-options="marginTop:0;" data-top-anchor="the-body:top" style="width: 100%">
+
+<div class="title-bar accentbg" data-responsive-toggle="example-menu" data-hide-for="medium" style="width: 100%">
+<button class="menu-icon" type="button" data-toggle="example-menu"></button>
+<div class="title-bar-title">{{ site.title }}</div>
+</div>
+
+<!--
+==================================================
+Top Bar
+================================================== -->
+<div class="top-bar accentbg" id="example-menu" style="width: 100%; background-color: #004042">
+<ul class="vertical medium-horizontal dropdown menu menu-hover-lines" data-responsive-menu="accordion medium-dropdown">
+<!--
+==================================================
+Home Link for Mobile
+================================================== -->
+<li class="accentbg home-nav-small">
+<a href="{{ site.baseurl }}/">
+Home
+</a>
+</li>
+<!--
+==================================================
+Nav Loop
+================================================== -->
+{% for nav in site.data.navigation %}
+<li class="accentbg {% if page.url == nav.url %}active{% endif %}">
+{% if nav.url contains "http" %}<a href="{{ nav.url }}" target="_blank">{% else %}<a href="{{ site.baseurl }}{{ nav.url }}">{% endif %}
+{{ nav.title }}<!--{{ page.url }} == {{ nav.url }}-->
+
+</a>
+</li>
+{% endfor %}
+</ul>
+</div>
+
+</div>
+</div>
+
+<!--default start-->
+
+
+<div style="background-color: #D3EAEE; padding-bottom: .25rem; border-top, border-bottom: 3px dotted #D94f30">
 <div class="grid-container">
 <div class="sitetitle center">
 <img src="{{site.baseurl}}{{site.urlimg}}DigitalArc.svg" style="height: 9rem;" alt="DigitalArc Platform Logo" />
-<h4 class="center" style="margin-bottom: .25rem;">A toolkit for storytelling &amp; community archives</h4>
+<h4 class="center" style="margin-bottom: .25rem;">An exhibit platform for collective storytelling &amp; community archives</h4>
 </div>
 </div>
 </div>
@@ -28,17 +86,63 @@ _This list is slowly growing as we develop relationship with community and campu
 
 * [La Casa Latino Cultural Center](https://lacasa.indiana.edu/) (IU Bloomington, Campus)
 
-<!--
-## Background
+</div>
+<div class="cell medium-6 align-top" markdown=1>
 
-The ImaginX en Movimiento (IXeM) Collective and the Indiana University Bloomington Institute for Digital Arts & Humanities (IDAH) are each committed to providing a platform for historically excluded communities to document their often unheard or unseen histories as a way to share their stories and experiences as they navigate their lives amid predominantly white, male, heterosexual, Christian, English-speaking community structures.  
+# About the DigitalArc team
 
-IXeM (ImaginX en Movimiento), is a grassroots digital archives collective based in Tongva territory (currently known as Los Angeles) that seeks to support archival projects being imagined and built outside of cultural heritage institutions by Black, Indigenous, women and LGBTQIA+ of color, and diasporic groups through solidarity and coalition-building. IXeM uses minimal computing solutions (cloud storage, social media, photo scanning applications) to build new digital infrastructure for supporting personal archives projects and to co-develop multimedia public history projects in partnership with museums, libraries, and organizations that rebuild connection, collective power, and deepens our sense of responsibility to one another. As an anti-colonial archives collective, IXeM is informed by the understanding that we all have different roles and obligations in the struggle to generate and regenerate transformative possibilities and futures for colonized and marginalized subjects, especially those at the intersections of historical and persistent marginality. 
+Our team got its start at the [Institute for Digital Arts and Humanities](https://idah.indiana.edu/) at Indiana University Bloomington and is now funded by the [Digital Justice Development Grant program at the American Council on Learned Societies](https://www.acls.org/recent-fellows/?program_id=40090&_project_year=2024).
 
-IDAH, in partnership with the Center for Research on Race and Ethnicity in Society (CRRES), have been exploring community-driven archiving as a way to spotlight both long-standing and newly diasporic communities in Indiana and neighboring Midwest states. Indiana in particular is a state that has been historically white, majority Christian and politically conservative. Saturation and high-cost of living in states and cities with large diasporic and minority communities (i.e., Miami, FL) are forcing historically excluded communities to relocate and are often devoid of their socio-cultural markers. For instance, Columbus, Indiana, only 40 minutes from Indiana University, is home to a growing community of Latinx immigrants, but this community’s cultural imprint is not yet visible. Like Columbus, many other Indiana regions have seen growth in communities of historically excluded people, yet Monroe County, which is home to “progressive” residents of Bloomington and affiliates of Indiana University, has not seen such growth. We want to change this.  
+Principal Project Team:
+- Michelle Dalmau
+- Vanessa Elias
+- Kalani Craig
+- Jazma Sutton
 
-Following on a pilot History Harvest, [Identity through Objects](https://historyharvest.indiana.edu/Fall2019/), that explored IUB’s global connections, we aim to draw on community archiving practices to shift the focus to historically excluded communities residing in and around Bloomington. By documenting individual stories and exploring the larger cultural patterns those individual stories convey, we hope to offer these communities a platform to communicate how they maintain or adapt their socio-cultural traditions as they navigate the dominant socio-cultural structures as part of their everyday lives. We also hope that this public-engagement platform will allow historically excluded communities to surface customs and traditions that are otherwise suppressed or significantly altered so that our community members are better positioned to take collective agency to advocate for and preserve their socio-cultural identities.       
+</div>
+</div>
+</div>
 
-The IXeM Collective provides a critical lens for academic-led or academic-partnered interests in community archiving as well as implementable guidelines to foster liberation-archiving without external interventions. Incorporating IXeM with an existing IDAH-CRRES collaboration will extend our ability to challenge policies and attitudes toward archiving adopted in academic and cultural heritage environments. The contexts for the IXeM Digital Archive and IDAH-CRRES History Harvest will likely differ, and the artifacts that comprise the digital archive will follow suit. At the same time, we can leverage our existing minimal computing options and attainable toolkits to support fully community-hosted and -published archiving. In partnership with IXeM, IDAH-CRRES will be able to extend the History Harvest model to capture more  complete stories that are led by the community and designed for the community.   
--->
+<div class="darkbg" style="background-color: #FCF0EE; margin-bottom: -1rem; padding-bottom: 1rem;">
+<div class="grid-container" markdown=1>
+
+### How it started
+
+The [IDAH@IU team](https://idah.indiana.edu) often gets requests to support archiving projects. This repository provides a starting point, a template for using simple Github Pages, developed in partnership with [Jazma Sutton](https://miamioh.edu/profiles/cas/jazma-sutton.html) and through community-storytelling partnerships with [ImaginX en Movimiento (IXeM)](https://www.instagram.com/ixemcollective/?hl=en) co-founded by Marisa Hicks-Alcaraz; [La Casa](https://lacasa.indiana.edu/), the [Center for Research on Race, Ethnicity and Society](https://crres.indiana.edu), and the [Asian Culture Center](https://asianresource.indiana.edu) at Indiana University Bloomington; and the [Remembering Freedom](https://longtownhistory.github.io) descendant community in Greenville and Longtown, Ohio, which hosts the community-archive project that inspired the initial development of this theme's predecessor, the Community-Archive template.
+
+</div>
+</div>
+
+<div class="accentbg">
+<div class="grid-container">
+<div class="grid-x grid-padding-x">
+<div class="large-12 cell">
+<div class="footer-actions">
+<div class="footer-actions-left">
+{%if site.twitter.size > 0 %}<a href="https://twitter.com/{{ site.twitter }}" aria-label="Our Twitter"><i class="fa-brands fa-x-twitter" target="_blank"></i></a>{%endif%}
+{%if site.instagram.size > 0 %}<a href="https://instagram.com/{{ site.instagram }}" aria-label="Our Instagram"><i class="fa-brands fa-instagram" target="_blank"></i></a>{%endif%}
+{%if site.facebook.size > 0 %}<a href="https://facebook.com/{{ site.facebook }}" aria-label="Our Facebook"><i class="fa-brands fa-facebook" target="_blank"></i></a>{%endif%}
+</div>
+<div class="footer-actions-right">
+{%if site.github.size > 0 %}<a href="https://github.com/{{ site.github }}/" target="_blank" aria-label="Our Github"><i class="fa fa-github"></i></a>{%endif%}
+{%if site.website.size > 0 %}<a href="{{site.website}}" target="_blank" aria-label="Our Website"><i class="fa-solid fa-globe"></i></a>{%endif%}
+{%if site.email.size > 0 %}<a href="mailto:{{ site.email | encode_email }}" aria-label="Email Us"><i class="fa fa-envelope"></i></a>{%endif%}
+</div>
+</div>
+
+<div class="footer-author-section">
+
+<div class="footer-author">
+<img class="avatar" src="{{ site.baseurl }}{{ site.urlimg }}{{ site.sitelogo }}" alt="{{ site.title }}"/>
+<div>
+<p class="author">{{site.authorname}}</p>
+<p class="bio">{{site.description}}</p>
+</div>
+</div>
+</div>
+<p class="quiet credits" xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a href="{% if site.copyright_page.size > 0 %}{{site.copyright_page}}{% else %}/copyright/{% endif %}"><i class="far fa-copyright"></i> {{ site.authorname }}, {%if SiteYear != NowYear %}{{SiteYear}} -{%endif%} {{NowYear}}</a>. <a property="dct:title" rel="cc:attributionURL" href="https://digitalarcplatform.kalanicraig.com/">DigitalArc Jekyll Theme</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.kalanicraig.com/">Kalani Craig</a> is licensed under <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-NC-SA 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"></a> Framework: <a href="https://get.foundation/" target="_blank">Foundation 6</a>.</p>
+</div>
+</div>
+</div>
+</div>
 
