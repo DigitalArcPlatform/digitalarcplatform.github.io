@@ -1,10 +1,11 @@
 ##############################################
 # START YOUR CONFIGURATION HERE! For more info, visit https://digitalarcplatform.kalanicraig.com/quickstart
 #---------------------
-# THEME. Leave Lines 4-6 alone.
+# THEME. The following 3 lines don't need to change
 #---------------------
-remote_theme: kalanicraig/digitalarcplatform@v0.9.0-beta.1
-repository: 'digitalarcplatform/digitalarcplatform.github.io' # change this to your repository name
+remote_theme: kalanicraig/digitalarcplatform
+repository: 'digitalarcplatform/demo' # change this to your repository name
+
 
 ##############################################
 # WHAT IS ALL THIS STUFF?
@@ -53,8 +54,8 @@ description: "A collective storytelling and community archiving toolkit for plan
 # These credits show up in the includes/_footer.html
 # Main author of the website.
 author: "DigitalArc"
-authorname : "DigitalArc: An exhibit platform for collective storyelling & community archives"
-sitelogo: "site_logo.jpg"
+authorname : "DigitalArc Team"
+sitelogo: site_logo.jpg
 placeholderimg: placeholder.png
 
 # What year did you start up this community project?
@@ -68,6 +69,14 @@ github :
 facebook : 
 instagram : 
 
+##############################################
+# COPYRIGHT PAGE
+#---------------------
+# If your collection is part of a larger site, remove the "#" before the copyright_page placeholder and paste in your about-us or contact link.
+# EXAMPLE: copyright_page: "https://yoursite.com/aboutus"
+# Otherwise, make sure you update the copyright.md file in the "pages" folder
+# copyright_page: 
+
 # If you need to know how many people visit your site, go to https://analytics.google.com/
 # When you finish the setup assistant, it will give you a Measurement ID: G-ABCDEFGHIJ
 google_g4_analytics_id: G-LVREG1Y1DT
@@ -77,7 +86,7 @@ google_g4_analytics_id: G-LVREG1Y1DT
 #---------------------
 
 # Choose the FONTS you'd like to use.
-# You can see these font choices in action at https://community-archive.kalanicraig.com/docs/
+# You can see these font choices in action at https://digitalarcplatform.kalanicraig.com/docs/
 # Uncomment the line for the font you like. Comment out all of the other lines.
 
 #fontchoice: archivonarrow # A narrow sans-serif font for headlines and body text
@@ -89,24 +98,23 @@ fontchoice: roboto # A clean sans-serif font with simple serif accents
 #fontchoice: source # A modern serif font with clean sans-serif accents
 
 # Choose the COLORS you'd like to use.
-# You can see these color choices in action at https://community-archive.kalanicraig.com/docs/
+# You can see these color choices in action at https://digitalarcplatform.kalanicraig.com/docs/
 # Uncomment the line for the color you like. Comment out all of the other lines.
 
-#colorchoice: navy # Navy with bright teal and grey
+#colorchoice: dusk # Dusky purple and olive green
+#colorchoice: lavenderred # Purple-grey with orange-red
 #colorchoice: leafgreen # Leafy green and medium brown
+#colorchoice: marigold # Near-black with marigold yellow
+#colorchoice: navy # Navy with bright teal and grey
+#colorchoice: red # Black, crimson and grey
 #colorchoice: tan # Tan and deep brown with flame-bright orange
 #colorchoice: teal # Bright teal with bright orange-yellow accents
-#colorchoice: marigold # Near-black with marigold yellow
-#colorchoice: red # Black, crimson and grey
-#colorchoice: lavenderred # Purple-grey with orange-red
-#colorchoice: dusk # Dusky purple and olive green
 colorchoice: custom
 
 ##############################################
 # ORGANIZING YOUR COLLECTION
 #---------------------
-# These collections take the basic files you put together for each item in your collection and auto-group and display them.
-# This takes each item in your archive collection and displays it
+# These collections take the basic files you put together for each item in your collection and display them with filtering buttons based on the tags, formats, and categories you include in each item file.
 collections:
   items:
     output: true
@@ -114,20 +122,6 @@ collections:
     contributor: true
     creator: true
     group: true
-# If your collection items need to be grouped by person, family or some other group, uncomment this collection
-#  groups:
-#    output: true
-#    permalink: /:collection/:path:output_ext
-#    name: true
-#    folder: true
-#    sort_by: folder
-# If you have oral histories that go with groups, uncomment this collection:
-#  oralhistories:
-#    output: true
-#    permalink: /:collection/:path:output_ext
-#    name: true
-#    folder: true
-#    sort_by: folder
   authors:
     output: false
     name: true
@@ -138,10 +132,11 @@ collections:
 # MOST OF THESE THINGS DON'T NEED TO BE CHANGED.
 ##############################################
 
+
 # This URL is the main address for absolute links. This will usually be blank.
 url: 
-# If this archive will be in a folder (kalanicraig.com/community-archive/) instead of in its own main site (idahatiu.github.io) add that folder name here. This will usually be blank.
-baseurl: 
+# This will usually be blank. If this archive will be in a folder (kalanicraig.com/digitalarcplatform/) instead of in its own main site (idahatiu.github.io) add that folder name here with a slash / in front of it (e.g. /communityarchive).
+baseurl: ""
 
 # This URL points directly to the images directory. It needs a slash at the end.
 #
@@ -155,15 +150,15 @@ permalink: /:categories/:year/:month/:day/:title:output_ext
 markdown : kramdown
 syntax_highlighter: rouge
 
-# This URL points directly to the images directory. It needs a slash at the end.
 exclude :
     - Gemfile
     - Gemfile.lock
     - CNAME
     - LICENSE
     - README.md
+    - pages/PagesOld
     - INSTALL.md
-    - vendor/bundle
+    - screenshot.png
 include: ['_pages']
 
 sass:
@@ -172,3 +167,4 @@ sass:
 
 plugins:
   - jekyll-seo-tag
+

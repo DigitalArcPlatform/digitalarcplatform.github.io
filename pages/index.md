@@ -1,6 +1,6 @@
 ---
 layout: blank
-title: DigitalArc Jekyll Theme
+title: DigitalArc Toolkit for community storytelling and archives
 permalink: /
 ---
 {% capture timestamp %}January 1, {{site.sitedate}}{% endcapture %}
@@ -74,14 +74,17 @@ Nav Loop
 
 <div class="grid-container" markdown=1>
 
-### About DigitalArc
+# About DigitalArc
 {: .subheadline }
 
-# Digital Archiving & Storytelling for Historically Underrepresented-Communities
+<div class="grid-x grid-padding-x  align-top">
+<div class="cell medium-6 align-left" markdown=1>
+
+## Digital Archiving & Storytelling for Historically Underrepresented-Communities
 
 Our goal is to support the site-specific preservation needs of historically-underrepresented communities and their socio-cultural identity and narratives through digital archiving and digital storytelling. More than [platforms](https://github.com/idahatiu/idahatiu.github.io) and processes, we take a *holistic approach to community-archiving with a focus on people*. [Visit the FAQ](faq.md) for more information.
 
-## Community & Campus Partners
+### Community & Campus Partners
 _This list is slowly growing as we develop relationship with community and campus partners._
 
 * [La Casa Latino Cultural Center](https://lacasa.indiana.edu/) (IU Bloomington, Campus)
@@ -89,11 +92,11 @@ _This list is slowly growing as we develop relationship with community and campu
 </div>
 <div class="cell medium-6 align-top" markdown=1>
 
-# About the DigitalArc team
+## About the DigitalArc team
 
 Our team got its start at the [Institute for Digital Arts and Humanities](https://idah.indiana.edu/) at Indiana University Bloomington and is now funded by the [Digital Justice Development Grant program at the American Council on Learned Societies](https://www.acls.org/recent-fellows/?program_id=40090&_project_year=2024).
 
-Principal Project Team:
+#### Principal Project Team:
 - Michelle Dalmau
 - Vanessa Elias
 - Kalani Craig
@@ -145,4 +148,3 @@ The [IDAH@IU team](https://idah.indiana.edu) often gets requests to support arch
 </div>
 </div>
 </div>
-
