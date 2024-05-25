@@ -148,3 +148,10 @@ The [IDAH@IU team](https://idah.indiana.edu) often gets requests to support arch
 </div>
 </div>
 </div>
+<script src="{{ site.baseurl }}/assets/js/vendor/jquery.js"></script>
+<script src="{{ site.baseurl }}/assets/js/vendor/what-input.js"></script>
+<script src="{{ site.baseurl }}/assets/js/vendor/foundation.js"></script>
+<script src="{{ site.baseurl }}/assets/js/app.js"></script>
+</body>
+</html>
+
