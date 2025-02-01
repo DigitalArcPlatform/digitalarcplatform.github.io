@@ -1,12 +1,17 @@
 # Site navigation links
 
-- title: About This Theme
-  url: https://digitalarcplatform.kalanicraig.com/
+- title: About DigitalArc 
+  url: /about/
   excerpt:
   image:
 
 - title: DigitalArc Toolkit
   url: /
+  excerpt:
+  image:
+
+- title: About This Theme
+  url: https://digitalarcplatform.kalanicraig.com/
   excerpt:
   image:
 
