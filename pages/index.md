@@ -80,9 +80,11 @@ Nav Loop
 <div class="grid-x grid-padding-x  align-top">
 <div class="cell medium-6 align-left" markdown=1>
 
-## Digital Archiving & Storytelling for Historically Underrepresented-Communities
+## Digital Archiving & Storytelling for Historically Excluded Communities
 
-Our goal is to support the site-specific preservation needs of historically-underrepresented communities and their socio-cultural identity and narratives through digital archiving and digital storytelling. More than [platforms](https://github.com/idahatiu/idahatiu.github.io) and processes, we take a *holistic approach to community-archiving with a focus on people*. [Visit the FAQ](faq.md) for more information.
+DigitalArc provides relatively easy and inexpensive approaches to organizing, collecting and publishing your histories.  More than platforms for publishing your stories and processes for capturing your stories, DigitalArc **focuses on the people who contribute their stories**.  [Visit the About DigitalArc page to learn more](/about.md).  
+
+Whether your community leads the entire digital archiving initiative, from start to finish, or you partner with local organizations, we provide guidance from planning to publishing your digital archive. Our goal is to provide step-by-step instructions that can be easily tailored for your community needs so you can lead and manage this whole process. The stories you are sharing are yours. You should have options for managing how your stories are shared.
 
 ### Community & Campus Partners
 _This list is slowly growing as we develop relationship with community and campus partners._
@@ -96,11 +98,15 @@ _This list is slowly growing as we develop relationship with community and campu
 
 Our team got its start at the [Institute for Digital Arts and Humanities](https://idah.indiana.edu/) at Indiana University Bloomington and is now funded by the [Digital Justice Development Grant program at the American Council on Learned Societies](https://www.acls.org/recent-fellows/?program_id=40090&_project_year=2024).
 
-#### Principal Project Team:
+### Principal Project Team:
 - Michelle Dalmau
 - Vanessa Elias
 - Kalani Craig
 - Jazma Sutton
+
+### About this Jekyll Theme
+While the DigitalArc design theme doesn't need to be customized, you can if you have the expertise.
+<p><a href="http://digitalarcplatform.kalanicraig.com" target="_blank" class=button>Find out more</a></p>
 
 </div>
 </div>
@@ -111,7 +117,7 @@ Our team got its start at the [Institute for Digital Arts and Humanities](https:
 
 ### How it started
 
-The [IDAH@IU team](https://idah.indiana.edu) often gets requests to support archiving projects. This repository provides a starting point, a template for using simple Github Pages, developed in partnership with [Jazma Sutton](https://miamioh.edu/profiles/cas/jazma-sutton.html) and through community-storytelling partnerships with [ImaginX en Movimiento (IXeM)](https://www.instagram.com/ixemcollective/?hl=en) co-founded by Marisa Hicks-Alcaraz; [La Casa](https://lacasa.indiana.edu/), the [Center for Research on Race, Ethnicity and Society](https://crres.indiana.edu), and the [Asian Culture Center](https://asianresource.indiana.edu) at Indiana University Bloomington; and the [Remembering Freedom](https://longtownhistory.github.io) descendant community in Greenville and Longtown, Ohio, which hosts the community-archive project that inspired the initial development of this theme's predecessor, the Community-Archive template.
+In 2017, the [IDAH@IU team](https://idah.indiana.edu) started getting requests to support archiving projects. This repository is the result of a long history of partnerships both in and outside of IDAH, which was sunsetted in 2024. The work here represents partnerships with [Jazma Sutton](https://miamioh.edu/profiles/cas/jazma-sutton.html), [ImaginX en Movimiento (IXeM)](https://www.instagram.com/ixemcollective/?hl=en) co-founded by Marisa Hicks-Alcaraz; [La Casa](https://lacasa.indiana.edu/), the [Center for Research on Race, Ethnicity and Society](https://crres.indiana.edu), and the [Asian Culture Center](https://asianresource.indiana.edu) at Indiana University Bloomington; and the [Remembering Freedom](https://longtownhistory.github.io) descendant community in Greenville and Longtown, Ohio, which hosts the community-archive project that inspired the initial development of this theme's predecessor, the Community-Archive template.
 
 </div>
 </div>
@@ -154,4 +160,3 @@ The [IDAH@IU team](https://idah.indiana.edu) often gets requests to support arch
 <script src="{{ site.baseurl }}/assets/js/app.js"></script>
 </body>
 </html>
-
