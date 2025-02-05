@@ -1,7 +1,7 @@
 ---
 layout: blank
 title: About DigitalArc
-permalink: /about
+permalink: /about.md
 ---
 {% capture timestamp %}January 1, {{site.sitedate}}{% endcapture %}
 {% assign SiteYear = timestamp | date: "%Y" %}
