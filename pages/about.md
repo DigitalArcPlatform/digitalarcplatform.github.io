@@ -74,9 +74,8 @@ Nav Loop
 
 <div class="grid-container" markdown=1>
 
-# About DigitalArc: Digital Archiving & Storytelling for Historically Excluded Communities
+# About DigitalArc
 {: .subheadline }
-
 
 Funded by the [Digital Justice Development Grant program at the American Council on Learned Societies](https://www.acls.org/recent-fellows/?program_id=40090&_project_year=2024), our goal is to provide support for local communities to document and share their own stories, on your terms, through the creation and ongoing management of digital archives. We all have an opportunity to contribute to our local and collective stories, enriching our shared historical record with voices that might otherwise not be heard.
 
@@ -90,22 +89,22 @@ Read all the fun details about the DigitalArc project below or jump to sections:
 - [When?](#when)
 - [Where?](#where)
 
-<a id="who"></a>
 ### Who?
+<a id="who"></a>
 You! This project is driven by you and your communities. Whether your community leads the entire digital archiving initiative, from start to finish, or you partner with local organizations, we provide guidance from planning to publishing your digital archive. Our goal is to provide step-by-step instructions that can be easily tailored for your community needs so you can lead and manage this whole process. _The stories you are sharing are yours. You should have options for managing how your stories are shared._  
 
 DigitalArc provides options! Your stories and artifacts could be shared widely via the Internet through the DigitalArc platform, platforms already supported by your community, or on social media. Your stories and artifacts can also be captured for personal or familial archives that are yours and yours alone. In every case, your artifacts and stories will be fully controlled by you, your community partners and/or individual contributors. You can designate levels of access from no public access at all to fully open-access.  
 
 [Jump down](#about_team) to learn more about the DigialArc project team.
 
-<a id="why"></a>
 ### Why?
+<a id="why"></a>
 The historical record is full of gaps. When communities whose histories have been excluded from institutional archives take on the task of telling their own stories, they often do so by using low-barrier platforms, including social media platforms like Facebook. However, easy posting and built-in audiences on social media platforms come with questionable data privacy and data ownership practices. Popular web-hosted platforms like WordPress often come with significant maintenance challenges. Partnerships with academic or cultural heritage institutions result in more sustainable archives but often at the cost of community ownership. This balance is complicated by varied community technical expertise, and a confusing landscape of digital archiving resources.
 
 The DigitalArc project seeks to bridge these gaps in archiving approaches with a scaffolded approach to community-owned archives that honors existing community skills and reflects community needs and preferences. Our approach provides easier and more affordable ways for communities to host and manage their own digital archives. By learning together, we create a shared knowledge base that communities can leverage to support their own community-led and community-centered digital archives. The DigitalArc toolkit helps shift the conversation with community partners about digital community archiving and storytelling to one in which community partners can choose how much or how little institutional support they want as they pursue a community archive.
 
-<a id="what"></a>
 ### What?
+<a id="what"></a>
 The DigitalArc project seeks to refine community-archiving approaches with constant input from community members. We have budgeted funding to work with a community partner in Indiana and a community partner in Ohio. Our hope is that the community leaders and volunteers can work through the DigitalArc toolkit to lead their own community-archiving project. In turn, the partners will receive in-person training and ongoing remote support from the DigitalArc project team. As we work through the process, we will rely on community members’ constructive criticism to help us improve the toolkit we are collaboratively creating.   
 
 For this grant, we have structured ways we can organize our collective archival work. **The most important of which is to recognize a couple of community leaders who are excited to uphold descendent archival approaches within their communities** and carry the torch by spearheading additional community archiving events. The DigitalArc project team is committed to working with community leaders to this end.
@@ -125,8 +124,8 @@ The process can be broken down into the following parts:
 - **After the Event**: Now you have digital photographs of community archives and oral history interviews! In this stage of the process, we will help you organize your digital files, maybe do some “cleaning” (cropping, editing, etc.) and get the files prepped for online publishing with the DigitalArc open-source platform!  
 - **Platform-Installation**: This part of the process is the most technical, but we promise we will try to make it as easy as possible. It wouldn't hurt to identify a community member (or two) who is interested in or curious about technology, and not afraid to break things!  
 
-<a id="when"></a>
 ### When?
+<a id="when"></a>
 We have several key dates for community partners to note:
 
 - **May 29 – June 1, 2025**: Multi-day, hands-on workshop on the process  
@@ -135,13 +134,12 @@ We have several key dates for community partners to note:
 - **April/May 2026**: Launch of your digital community archive
 
 These dates are fixed to a grant timeline though we may need to shift here and there by a week or two.  **_The May 29 – June 1, 2025 workshop dates are set_**.  
-
-<a id="where"></a>
 ### Where?
+<a id="where"></a>
 The community archiving work will happen primarily **_in your communities_** – at a church, local library, school, home of a community member, a community-run festival or celebration. You will have remote support from the DigitalArc project team.  
 
-<a id="about_team"></a>
 ## About the Digital Arc Project Team
+<a id="about_team"></a>
 
 The DigitalArc project team is made up of folks affiliated with Indiana University Bloomington and Miami University of Ohio. We also rely on the expertise and generous support of Advisory Team members. We hope to complete this list soon by also recognizing the rest of our project team and our community partners in Indiana and Ohio!  
 
