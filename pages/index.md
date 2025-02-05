@@ -80,9 +80,11 @@ Nav Loop
 <div class="grid-x grid-padding-x  align-top">
 <div class="cell medium-6 align-left" markdown=1>
 
-## Digital Archiving & Storytelling for Historically Underrepresented-Communities
+## Digital Archiving & Storytelling for Historically Excluded Communities
 
-Our goal is to support the site-specific preservation needs of historically-underrepresented communities and their socio-cultural identity and narratives through digital archiving and digital storytelling. More than [platforms](https://github.com/idahatiu/idahatiu.github.io) and processes, we take a *holistic approach to community-archiving with a focus on people*. [Visit the FAQ](faq.md) for more information.
+DigitalArc provides relatively easy and inexpensive approaches to organizing, collecting and publishing your histories.  More than platforms for publishing your stories and processes for capturing your stories, DigitalArc **focuses on the people who contribute their stories**.  [Visit the About DigitalArc page to learn more](/about.md).  
+
+Whether your community leads the entire digital archiving initiative, from start to finish, or you partner with local organizations, we provide guidance from planning to publishing your digital archive. Our goal is to provide step-by-step instructions that can be easily tailored for your community needs so you can lead and manage this whole process. The stories you are sharing are yours. You should have options for managing how your stories are shared.
 
 ### Community & Campus Partners
 _This list is slowly growing as we develop relationship with community and campus partners._
@@ -158,4 +160,3 @@ In 2017, the [IDAH@IU team](https://idah.indiana.edu) started getting requests t
 <script src="{{ site.baseurl }}/assets/js/app.js"></script>
 </body>
 </html>
-
