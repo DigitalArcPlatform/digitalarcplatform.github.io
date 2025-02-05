@@ -1,7 +1,7 @@
 ---
 layout: blank
-title: DigitalArc Toolkit for community storytelling and archives
-permalink: /
+title: About the DigitalArc Toolkit Team
+permalink: /about
 ---
 {% capture timestamp %}January 1, {{site.sitedate}}{% endcapture %}
 {% assign SiteYear = timestamp | date: "%Y" %}
@@ -74,50 +74,42 @@ Nav Loop
 
 <div class="grid-container" markdown=1>
 
-# About DigitalArc
+# About The DigitalArc Team
 {: .subheadline }
 
-<div class="grid-x grid-padding-x  align-top">
-<div class="cell medium-6 align-left" markdown=1>
 
-## Digital Archiving & Storytelling for Historically Underrepresented-Communities
+Funded by the [Digital Justice Development Grant program at the American Council on Learned Societies](https://www.acls.org/recent-fellows/?program_id=40090&_project_year=2024), our goal is to provide scaffolding and support for local communities to document and share their own stories, on your terms, through the creation and ongoing management of digital archives. We all have an opportunity to contribute to our local and collective stories, enriching our shared historical record with voices often excluded.
 
-Our goal is to support the site-specific preservation needs of historically-underrepresented communities and their socio-cultural identity and narratives through digital archiving and digital storytelling. More than [platforms](https://github.com/idahatiu/idahatiu.github.io) and processes, we take a *holistic approach to community-archiving with a focus on people*. [Visit the FAQ](faq.md) for more information.
+Digital Arc provides adaptable guidelines for documenting histories, from the planning process to collecting the stories, from preparing the stories for personal and community records to publishing the stories.
 
-### Community & Campus Partners
-_This list is slowly growing as we develop relationship with community and campus partners._
+## An Overview
 
-* [La Casa Latino Cultural Center](https://lacasa.indiana.edu/) (IU Bloomington, Campus)
+### Who?
 
-</div>
-<div class="cell medium-6 align-top" markdown=1>
+### Why?
 
-## About the DigitalArc team
+### What?
 
-Our team got its start at the [Institute for Digital Arts and Humanities](https://idah.indiana.edu/) at Indiana University Bloomington and is now funded by the [Digital Justice Development Grant program at the American Council on Learned Societies](https://www.acls.org/recent-fellows/?program_id=40090&_project_year=2024).
+### When?
 
-### Principal Project Team:
-- Michelle Dalmau
-- Vanessa Elias
-- Kalani Craig
-- Jazma Sutton
+### Where?
 
-### About this Jekyll Theme
-While the DigitalArc design theme doesn't need to be customized, you can if you have the expertise.
-<p><a href="http://digitalarcplatform.kalanicraig.com" target="_blank" class=button>Find out more</a></p>
+## About the Digital Arc Project Team
 
-</div>
-</div>
-</div>
+Quick intro to the team here.
 
-<div class="darkbg" style="background-color: #FCF0EE; margin-bottom: -1rem; padding-bottom: 1rem;">
-<div class="grid-container" markdown=1>
+### Kalani Craig (she/her)
+Kalani info.
 
-### How it started
+### Michelle Dalmau (she/ella)
+Michelle info.
 
-In 2017, the [IDAH@IU team](https://idah.indiana.edu) started getting requests to support archiving projects. This repository is the result of a long history of partnerships both in and outside of IDAH, which was sunsetted in 2024. The work here represents partnerships with [Jazma Sutton](https://miamioh.edu/profiles/cas/jazma-sutton.html), [ImaginX en Movimiento (IXeM)](https://www.instagram.com/ixemcollective/?hl=en) co-founded by Marisa Hicks-Alcaraz; [La Casa](https://lacasa.indiana.edu/), the [Center for Research on Race, Ethnicity and Society](https://crres.indiana.edu), and the [Asian Culture Center](https://asianresource.indiana.edu) at Indiana University Bloomington; and the [Remembering Freedom](https://longtownhistory.github.io) descendant community in Greenville and Longtown, Ohio, which hosts the community-archive project that inspired the initial development of this theme's predecessor, the Community-Archive template.
+### Vanessa Elias (she/ella)
+Vanessa info.
 
-</div>
+### Jazma Sutton (she/her)
+Jazma info.
+
 </div>
 
 <div class="accentbg">
