@@ -163,7 +163,7 @@ Kalani Craig is Associate Professor of History at Indiana University Bloomington
 #### Michelle Dalmau (she/her/ella)
 Michelle Dalmau is Director of Digital Collections and Digitization Services for the Indiana University Libraries at Indiana University Bloomington. Michelle has a personal connection to community archiving work as a second-generation immigrant and first-generation college student. She is a lead collaborator in digital community archiving work. Michelle is managing the overall grant, including project management, and she’s leading the Indiana community archiving initiative. Michelle serves as PI on the project.    
 
-#### Claudia Diaz-Gonzalez (she/her) 
+#### Claudia Gonzalez-Diaz (she/her) 
 Claudia Gonzalez-Diaz is a graduate student in the History of Art Department at Tulane University. Claudia is the DigitalArc Project Manager, a position she shares with Alec Smitten, assisting with supporting community partners in digital archiving planning and implementation work including support for post-processing stories captured and publishing the digital archive web site. Prior to assuming the role of DigitalArc Project Manager, Claudia curated and implemented a physical and digital exhibition, _Home Bound_, using an earlier version of the DigitalArc platform. 
 
 #### Vanessa Elias (she/her/ella)
