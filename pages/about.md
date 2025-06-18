@@ -145,14 +145,14 @@ The DigitalArc project team is made up of folks affiliated with Indiana Universi
 
 ### Community Partners
 <a id="comm_partners"></a>
-- Samuel Barnett also known as Sam Love is a local activist, historian, and Indiana Uuniversity Northwest alumni. Sam is co-leading the Gary, Indiana partner collaboration.  
+- Samuel Barnett also known as Sam Love is a local activist, historian, and Indiana University Northwest alumni. Sam is co-leading the Gary, Indiana partner collaboration.  
 - Karen	Byrd-Gibson 
 - Margaret Catania, Co-Executive Director of the Calumet Collaborative
 - McKenya Dilworth
 - Maya Etienne, Co-Executive Director of the Calumet Collaborative
 - Courtney Franklin
-- Bryan	Glover
-- Jacqueline Johnson
+- Bryan	Glover, Project Leader of Legacy Walk at Robert Settlement; Retired Corporate Financial Operations leader and small business owner
+- Jacqueline Johnson, church member, Bethel AME Church in Oxford, OH
 - Joslyn Washington Kelly, Visionary of [This is Gary](https://thisisgaryvw.com) and Owner of [J's Breakfast Club](https://jsbreakfastclubgary.com) in Gary, Indiana. Joslyn is co-leading the Gary, Indiana partner collaboration.  
 
 ### Core Project Team
