@@ -149,7 +149,7 @@ The DigitalArc project team is made up of folks affiliated with Indiana Universi
 - Karen	Byrd-Gibson 
 - Margaret Catania, Co-Executive Director of the Calumet Collaborative
 - McKenya Dilworth
-- Maya Etienne, Co-Executive Director of the Calumet Collaborative
+- Maya Etienne, Co-Executive Director of the Calumet Collaborative and volunteer Program Director for the Gary Food Council
 - Courtney Franklin
 - Bryan	Glover, Project Leader of Legacy Walk at Robert Settlement; Retired Corporate Financial Operations leader and small business owner
 - Jacqueline Johnson, church member, Bethel AME Church in Oxford, OH
