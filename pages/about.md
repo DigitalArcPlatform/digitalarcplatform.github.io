@@ -138,6 +138,9 @@ These dates are fixed to a grant timeline though we may need to shift here and t
 <a id="where"></a>
 The community archiving work will happen primarily **_in your communities_** – at a church, local library, school, home of a community member, a community-run festival or celebration. You will have remote support from the DigitalArc project team.  
 
+### Highlights
+Midwest community leaders worked toward their digital archiving goals at the DigitalArc In-Person Workshop from May 31-June 1, 2025, in Bloomington, Indiana. Read more about it and see photos here.
+
 ## About the Digital Arc Project Team
 <a id="about_team"></a>
 
