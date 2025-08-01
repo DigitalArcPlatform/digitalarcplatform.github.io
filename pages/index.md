@@ -94,6 +94,9 @@ _This list is slowly growing as we develop relationship with community and campu
 </div>
 <div class="cell medium-6 align-top" markdown=1>
 
+## DigitalArc Highlights
+  blah blah blah
+  
 ## About the DigitalArc team
 
 Our team got its start at the [Institute for Digital Arts and Humanities](https://idah.indiana.edu/) at Indiana University Bloomington and is now funded by the [Digital Justice Development Grant program at the American Council on Learned Societies](https://www.acls.org/recent-fellows/?program_id=40090&_project_year=2024).
