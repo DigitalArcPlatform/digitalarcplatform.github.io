@@ -95,7 +95,13 @@ _This list is slowly growing as we develop relationship with community and campu
 <div class="cell medium-6 align-top" markdown=1>
 
 ## DigitalArc Highlights
-  blah blah blah
+  resources:
+   - name: "slide1"
+    src: "highlights/slide1.jpg"
+  - name: "slide2"
+    src: "highlights/slide2.jpg"
+  - name: "slide3"
+    src: "highlights/slide3.jpg"
   
 ## About the DigitalArc team
 
