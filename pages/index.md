@@ -10,13 +10,6 @@ permalink: /
 <html class="no-js" lang="en" dir="ltr">
 <head>
 {% include _head.html %}
-  {%  resources:
-   - name: "slide1"
-    src: "highlights/slide1.jpg"
-  - name: "slide2"
-    src: "highlights/slide2.jpg"
-  - name: "slide3"
-    src: "highlights/slide3.jpg"%}
 </head>
 <body id="the-body">
 
