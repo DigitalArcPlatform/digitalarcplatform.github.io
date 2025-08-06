@@ -168,12 +168,3 @@ sass:
 plugins:
   - jekyll-seo-tag
 
-{{ with .Resources.ByType "image" }}
-   <div class="slider">
-            {{ range . }}
-                <div class='slider-item'>
-                    <img src="{{ .RelPermalink }}" />
-                </div>
-            {{ end }}
-        </div>
-    {{ end }}
