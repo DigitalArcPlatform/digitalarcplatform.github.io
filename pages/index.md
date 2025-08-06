@@ -10,6 +10,13 @@ permalink: /
 <html class="no-js" lang="en" dir="ltr">
 <head>
 {% include _head.html %}
+  {%  resources:
+   - name: "slide1"
+    src: "highlights/slide1.jpg"
+  - name: "slide2"
+    src: "highlights/slide2.jpg"
+  - name: "slide3"
+    src: "highlights/slide3.jpg"%}
 </head>
 <body id="the-body">
 
@@ -95,13 +102,7 @@ _This list is slowly growing as we develop relationship with community and campu
 <div class="cell medium-6 align-top" markdown=1>
 
 ## DigitalArc Highlights
-  resources:
-   - name: "slide1"
-    src: "highlights/slide1.jpg"
-  - name: "slide2"
-    src: "highlights/slide2.jpg"
-  - name: "slide3"
-    src: "highlights/slide3.jpg"
+
   
 ## About the DigitalArc team
 
