@@ -95,7 +95,7 @@ _This list is slowly growing as we develop relationship with community and campu
 <div class="cell medium-6 align-top" markdown=1>
 
 ## DigitalArc Highlights
-
+Highlight teaser here
   
 ## About the DigitalArc team
 
