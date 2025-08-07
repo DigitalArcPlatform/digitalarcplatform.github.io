@@ -122,8 +122,26 @@ _This list is slowly growing as we develop relationship with community and campu
     </li>
     <li class="orbit-slide is-active">
       <figure class="orbit-figure">
-        <img class="orbit-image" src="assets/highlights/slide6.JPG" alt="Bryan Glover">
+        <img class="orbit-image" src="assets/highlights/slide4.JPG" alt="Sutton">
+        <figcaption class="orbit-caption">Dr. Jazma Sutton speaks about her research on descendant archival practices.</figcaption>
+      </figure>
+    </li>
+    <li class="orbit-slide is-active">
+      <figure class="orbit-figure">
+        <img class="orbit-image" src="assets/highlights/slide5.JPG" alt="Group2">
+        <figcaption class="orbit-caption">Workshop attendees and organizers.</figcaption>
+      </figure>
+    </li>
+    <li class="orbit-slide is-active">
+      <figure class="orbit-figure">
+        <img class="orbit-image" src="assets/highlights/slide6.JPG" alt="Glover">
         <figcaption class="orbit-caption">Bryan Glover, Vice President of Roberts Settlement, annouces upcoming Homecoming.</figcaption>
+      </figure>
+    </li>
+    <li class="orbit-slide is-active">
+      <figure class="orbit-figure">
+        <img class="orbit-image" src="assets/highlights/slide7.JPG" alt="Photography">
+        <figcaption class="orbit-caption">Dr. Kalani Craig addresses the importance of metadata in organizing object photographs.</figcaption>
       </figure>
     </li>
   </ul>
@@ -135,6 +153,10 @@ _This list is slowly growing as we develop relationship with community and campu
     </button>
     <button data-slide="1"><span class="show-for-sr">Second slide details.</span></button>
     <button data-slide="2"><span class="show-for-sr">Third slide details.</span></button>
+    <button data-slide="3"><span class="show-for-sr">Fourth slide details.</span></button>
+    <button data-slide="4"><span class="show-for-sr">Fifth slide details.</span></button>
+    <button data-slide="5"><span class="show-for-sr">Sixth slide details.</span></button>
+    <button data-slide="6"><span class="show-for-sr">Seventh slide details.</span></button>
   </nav>
 </div>
 
