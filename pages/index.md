@@ -114,6 +114,18 @@ _This list is slowly growing as we develop relationship with community and campu
         <figcaption class="orbit-caption">McKenya Dilworth introduces herself to Oxford, OH and Roberts Settlement Partners.</figcaption>
       </figure>
     </li>
+    <li class="orbit-slide is-active">
+      <figure class="orbit-figure">
+        <img class="orbit-image" src="assets/highlights/slide3.JPG" alt="Gary partners">
+        <figcaption class="orbit-caption">Gary Partners Maya Etienne, Joslyn Washington Kelly, and McKenya Dilworth walk through the check-in station to practice leading a History Harvest.</figcaption>
+      </figure>
+    </li>
+    <li class="orbit-slide is-active">
+      <figure class="orbit-figure">
+        <img class="orbit-image" src="assets/highlights/slide6.JPG" alt="Bryan Glover">
+        <figcaption class="orbit-caption">Bryan Glover, Vice President of Roberts Settlement, annouces upcoming Homecoming.</figcaption>
+      </figure>
+    </li>
   </ul>
   </div>
   <nav class="orbit-bullets">
