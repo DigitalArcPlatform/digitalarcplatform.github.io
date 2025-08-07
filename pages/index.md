@@ -95,8 +95,37 @@ _This list is slowly growing as we develop relationship with community and campu
 <div class="cell medium-6 align-top" markdown=1>
 
 ## DigitalArc Highlights
-Highlight teaser here
-  
+<div class="orbit" role="region" aria-label="In-Person Workshop Highlights" data-orbit>
+    <div class="orbit-wrapper">
+      <div class="orbit-controls">
+        <button class="orbit-previous"><span class="show-for-sr">Previous Slide</span>&#9664;&#xFE0E;</button>
+        <button class="orbit-next"><span class="show-for-sr">Next Slide</span>&#9654;&#xFE0E;</button>
+      </div>
+  <ul class="orbit-container">
+    <li class="orbit-slide is-active">
+      <figure class="orbit-figure">
+        <img class="orbit-image" src="assets/highlights/slide1.JPG" alt="Group">
+        <figcaption class="orbit-caption">Michelle Dalmau leads introductions.</figcaption>
+      </figure>
+    </li>
+    <li class="orbit-slide is-active">
+      <figure class="orbit-figure">
+        <img class="orbit-image" src="assets/highlights/slide2.JPG" alt="McKenya Dilworth">
+        <figcaption class="orbit-caption">McKenya Dilworth introduces herself to Oxford, OH and Roberts Settlement Partners.</figcaption>
+      </figure>
+    </li>
+  </ul>
+  </div>
+  <nav class="orbit-bullets">
+    <button class="is-active" data-slide="0">
+      <span class="show-for-sr">First slide details.</span>
+      <span class="show-for-sr" data-slide-active-label>Current Slide</span>
+    </button>
+    <button data-slide="1"><span class="show-for-sr">Second slide details.</span></button>
+    <button data-slide="2"><span class="show-for-sr">Third slide details.</span></button>
+  </nav>
+</div>
+
 ## About the DigitalArc team
 
 Our team got its start at the [Institute for Digital Arts and Humanities](https://idah.indiana.edu/) at Indiana University Bloomington and is now funded by the [Digital Justice Development Grant program at the American Council on Learned Societies](https://www.acls.org/recent-fellows/?program_id=40090&_project_year=2024).
