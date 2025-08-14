@@ -170,9 +170,6 @@ Our team got its start at the [Institute for Digital Arts and Humanities](https:
 - Kalani Craig
 - Jazma Sutton
 
-## Values
-The DigitalArc team to uphold [these values] in fulfilling the social justice goal of our work. (https://claudiatests.github.io/values/)
-
 ### About this Jekyll Theme
 While the DigitalArc design theme doesn't need to be customized, you can if you have the expertise.
 <p><a href="http://digitalarcplatform.kalanicraig.com" target="_blank" class=button>Find out more</a></p>
