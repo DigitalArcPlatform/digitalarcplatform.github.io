@@ -80,6 +80,9 @@ Nav Loop
 <div class="grid-x grid-padding-x  align-top">
 <div class="cell medium-6 align-left" markdown=1>
 
+## Values
+DigitalArc aims to uphold [these values] in fulfilling the social justice goal of our work. (https://claudiatests.github.io/values/)
+
 ## Digital Archiving & Storytelling for Historically Excluded Communities
 
 DigitalArc provides relatively easy and inexpensive approaches to organizing, collecting and publishing your histories.  More than platforms for publishing your stories and processes for capturing your stories, DigitalArc **focuses on the people who contribute their stories**.  [Visit the About DigitalArc page to learn more](/about/).  
