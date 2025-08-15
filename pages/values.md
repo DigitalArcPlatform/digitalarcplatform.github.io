@@ -1,9 +1,9 @@
-
+---
+layout: blank
+title: DigitalArc Values
+permalink: /values/
+---
 # DigitalArc's Values
-{: .subheadline }
-
-<div class="grid-x grid-padding-x  align-top">
-<div class="cell medium-6 align-left" markdown=1>
 
 ## 1. Community Ownership and Control
 
