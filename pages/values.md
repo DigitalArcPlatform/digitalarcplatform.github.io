@@ -74,6 +74,7 @@ Nav Loop
 </div>
 
 <div class="grid-container" markdown=1>
+  
 # DigitalArc's Values
 
 ## 1. Community Ownership and Control
