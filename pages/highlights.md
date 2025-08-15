@@ -1,7 +1,7 @@
 --- 
 title: In-Person Workshop
-layout: (whichever one you want) 
-permalink: /(whatever you want as the page name in the URL, I believe this also gets set in the navigation.yml) 
+layout: blank
+permalink: /highlights/
 --- 
 
 # DigitalArc project team and partners practice “history harvest” during spring in-person workshop 
