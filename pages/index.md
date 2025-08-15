@@ -95,9 +95,12 @@ _This list is slowly growing as we develop relationship with community and campu
 <div class="cell medium-6 align-top" markdown=1>
 
 ## DigitalArc Values
-Our core team aims to uphold six values as we fulfill our social justice-driven project. [Visit the Values DigitalArc page to see them.] (/values/).
+Our core team aims to uphold six values as we fulfill our social justice-driven project. [Visit the Values DigitalArc page to see them](/values/).
 
 ## DigitalArc Highlights
+
+[Read more about the workshop here](/highlights/).
+
 <div class="orbit" role="region" aria-label="In-Person Workshop Highlights" data-orbit>
     <div class="orbit-wrapper">
       <div class="orbit-controls">
@@ -162,9 +165,6 @@ Our core team aims to uphold six values as we fulfill our social justice-driven 
     <button data-slide="6"><span class="show-for-sr">Seventh slide details.</span></button>
   </nav>
 </div>
-
-
-[Read more about the workshop here]. (/highlights/).
 
 ## About the DigitalArc team
 
