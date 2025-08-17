@@ -87,7 +87,7 @@ DigitalArc provides relatively easy and inexpensive approaches to organizing, co
 Whether your community leads the entire digital archiving initiative, from start to finish, or you partner with local organizations, we provide guidance from planning to publishing your digital archive. Our goal is to provide step-by-step instructions that can be easily tailored for your community needs so you can lead and manage this whole process. The stories you are sharing are yours. You should have options for managing how your stories are shared.
 
 ## DigitalArc's Values
-The DigitalArc project team’s values center community ownership, scaffolded learning, equity, sustainability, transparency and a commitment to everyday histories. [Visit DigitalArc's Values to learn more.](/values/).
+The DigitalArc project team’s values center community ownership, scaffolded learning, equity, sustainability, transparency and a commitment to everyday histories. [Visit DigitalArc's Values to learn more.](/values/)
 
 ### Community & Campus Partners
 _This list is slowly growing as we develop relationship with community and campus partners._
