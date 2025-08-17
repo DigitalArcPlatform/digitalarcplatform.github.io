@@ -86,6 +86,9 @@ DigitalArc provides relatively easy and inexpensive approaches to organizing, co
 
 Whether your community leads the entire digital archiving initiative, from start to finish, or you partner with local organizations, we provide guidance from planning to publishing your digital archive. Our goal is to provide step-by-step instructions that can be easily tailored for your community needs so you can lead and manage this whole process. The stories you are sharing are yours. You should have options for managing how your stories are shared.
 
+## DigitalArc's Values
+The DigitalArc project team’s values center community ownership, scaffolded learning, equity, sustainability, transparency and a commitment to everyday histories. [Visit DigitalArc's Values to learn more.](/values/)
+
 ### Community & Campus Partners
 _This list is slowly growing as we develop relationship with community and campus partners._
 
@@ -93,6 +96,75 @@ _This list is slowly growing as we develop relationship with community and campu
 
 </div>
 <div class="cell medium-6 align-top" markdown=1>
+
+## DigitalArc Highlights
+
+[Visit DigitalArc Highlights to learn more.](/highlights/).
+
+<div class="orbit" role="region" aria-label="In-Person Workshop Highlights" data-orbit>
+    <div class="orbit-wrapper">
+      <div class="orbit-controls">
+        <button class="orbit-previous"><span class="show-for-sr">Previous Slide</span>&#9664;&#xFE0E;</button>
+        <button class="orbit-next"><span class="show-for-sr">Next Slide</span>&#9654;&#xFE0E;</button>
+      </div>
+  <ul class="orbit-container">
+    <li class="orbit-slide is-active">
+      <figure class="orbit-figure">
+        <img class="orbit-image" src="assets/highlights/slide1.JPG" alt="Group">
+        <figcaption class="orbit-caption">Michelle Dalmau leads introductions.</figcaption>
+      </figure>
+    </li>
+    <li class="orbit-slide is-active">
+      <figure class="orbit-figure">
+        <img class="orbit-image" src="assets/highlights/slide2.JPG" alt="McKenya Dilworth">
+        <figcaption class="orbit-caption">McKenya Dilworth introduces herself to Oxford, OH and Roberts Settlement Partners.</figcaption>
+      </figure>
+    </li>
+    <li class="orbit-slide is-active">
+      <figure class="orbit-figure">
+        <img class="orbit-image" src="assets/highlights/slide3.JPG" alt="Gary partners">
+        <figcaption class="orbit-caption">Gary Partners Maya Etienne, Joslyn Washington Kelly, and McKenya Dilworth walk through the check-in station to practice leading a History Harvest.</figcaption>
+      </figure>
+    </li>
+    <li class="orbit-slide is-active">
+      <figure class="orbit-figure">
+        <img class="orbit-image" src="assets/highlights/slide4.JPG" alt="Sutton">
+        <figcaption class="orbit-caption">Dr. Jazma Sutton speaks about her research on descendant archival practices.</figcaption>
+      </figure>
+    </li>
+    <li class="orbit-slide is-active">
+      <figure class="orbit-figure">
+        <img class="orbit-image" src="assets/highlights/slide5.JPG" alt="Group2">
+        <figcaption class="orbit-caption">Workshop attendees and organizers.</figcaption>
+      </figure>
+    </li>
+    <li class="orbit-slide is-active">
+      <figure class="orbit-figure">
+        <img class="orbit-image" src="assets/highlights/slide6.JPG" alt="Glover">
+        <figcaption class="orbit-caption">Bryan Glover, Vice President of Roberts Settlement, annouces upcoming Homecoming.</figcaption>
+      </figure>
+    </li>
+    <li class="orbit-slide is-active">
+      <figure class="orbit-figure">
+        <img class="orbit-image" src="assets/highlights/slide7.JPG" alt="Photography">
+        <figcaption class="orbit-caption">Dr. Kalani Craig addresses the importance of metadata in organizing object photographs.</figcaption>
+      </figure>
+    </li>
+  </ul>
+  </div>
+  <nav class="orbit-bullets">
+    <button class="is-active" data-slide="0">
+      <span class="show-for-sr">First slide details.</span>
+      <span class="show-for-sr" data-slide-active-label>Current Slide</span>
+    </button>
+    <button data-slide="1"><span class="show-for-sr">Second slide details.</span></button>
+    <button data-slide="2"><span class="show-for-sr">Third slide details.</span></button>
+    <button data-slide="3"><span class="show-for-sr">Fourth slide details.</span></button>
+    <button data-slide="4"><span class="show-for-sr">Fifth slide details.</span></button>
+    <button data-slide="5"><span class="show-for-sr">Sixth slide details.</span></button>
+    <button data-slide="6"><span class="show-for-sr">Seventh slide details.</span></button>
+  </nav>
+</div>
 
 ## About the DigitalArc team
 
