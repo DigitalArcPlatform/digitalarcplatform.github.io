@@ -74,7 +74,8 @@ Nav Loop
 
 <div class="grid-container" markdown=1>
  
-# DigitalArc project team and partners practice “history harvest” during spring in-person workshop 
+# DigitalArc project team and partners practice “history harvest” 
+# during spring in-person workshop 
 
 Midwest community leaders worked toward their digital archiving goals at the DigitalArc In-Person Workshop from May 31-June 1, 2025, in Bloomington, Indiana. Representing Gary, Roberts Settlement, and Oxford, Ohio, the nine attendees learned about the DigitalArc Community Archiving Playbook to weigh which parts of the history harvest format best fit their interests. For the first time, the DigitalArc project team and the project partners met one another in person during this event. 
 
