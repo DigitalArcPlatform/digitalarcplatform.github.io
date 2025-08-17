@@ -81,6 +81,17 @@ Funded by the [Digital Justice Development Grant program at the American Council
 
 DigitalArc provides adaptable guidelines for documenting histories, from the planning process to collecting the stories, from preparing the stories for personal and community records to publishing the stories.
 
+## DigitalArc's Values
+# The DigitalArc project team’s values center:  
+i. Community Ownership and Control 
+ii. Accessible, Scaffolded Support and Training 
+iii. Equity in the Historical Record 
+iv. Sustainable, Community-Led Capacity Building 
+v. Transparency Around Digital Ethics and Infrastructure 
+vi.Investment in Intergenerational and Local Knowledge 
+
+Visit [DigitalArc's Values] to learn more. (https://digitalarcplatform.github.io/values/)
+
 ## An Overview
 Read all the fun details about the DigitalArc project below or jump to sections:
 - [Who?](#who)
