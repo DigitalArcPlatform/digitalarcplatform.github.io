@@ -86,20 +86,22 @@ DigitalArc provides relatively easy and inexpensive approaches to organizing, co
 
 Whether your community leads the entire digital archiving initiative, from start to finish, or you partner with local organizations, we provide guidance from planning to publishing your digital archive. Our goal is to provide step-by-step instructions that can be easily tailored for your community needs so you can lead and manage this whole process. The stories you are sharing are yours. You should have options for managing how your stories are shared.
 
-## DigitalArc's Values
-The DigitalArc project team’s values center community ownership, scaffolded learning, equity, sustainability, transparency and a commitment to everyday histories. [Visit DigitalArc's Values to learn more.](/values/)
+## DigitalArc Values
+The DigitalArc project team’s values center community ownership, scaffolded learning, equity, sustainability, transparency and a commitment to everyday histories. [Visit DigitalArc Values](/values/) to learn more.
 
 ### Community & Campus Partners
 _This list is slowly growing as we develop relationship with community and campus partners._
 
-* [La Casa Latino Cultural Center](https://lacasa.indiana.edu/) (IU Bloomington, Campus)
+* [La Casa Latino Cultural Center](https://lacasa.indiana.edu/) (IU Bloomington Campus Partners)
+* [This is Gary!](https://www.thisisgaryvw.com) (Gary, Indiana Community Partners)
+* [Bethel A.M.E. Church](https://www.facebook.com/people/Bethel-AME-Church-Oxford-Ohio/100064544810152/) (Oxford, Ohio Community Partners)
 
 </div>
 <div class="cell medium-6 align-top" markdown=1>
 
 ## DigitalArc Highlights
 
-[Visit DigitalArc Highlights to learn more.](/highlights/).
+[Visit DigitalArc Highlights](/highlights/) to learn more..
 
 <div class="orbit" role="region" aria-label="In-Person Workshop Highlights" data-orbit>
     <div class="orbit-wrapper">
@@ -171,10 +173,10 @@ _This list is slowly growing as we develop relationship with community and campu
 Our team got its start at the [Institute for Digital Arts and Humanities](https://idah.indiana.edu/) at Indiana University Bloomington and is now funded by the [Digital Justice Development Grant program at the American Council on Learned Societies](https://www.acls.org/recent-fellows/?program_id=40090&_project_year=2024).
 
 ### Principal Project Team:
-- Michelle Dalmau
-- Vanessa Elias
-- Kalani Craig
-- Jazma Sutton
+- Kalani Craig, Co-PI
+- Michelle Dalmau, PI
+- Vanessa Elias, Co-PI
+- Jazma Sutton, Co-PI
 
 ### About this Jekyll Theme
 While the DigitalArc design theme doesn't need to be customized, you can if you have the expertise.

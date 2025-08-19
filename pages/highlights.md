@@ -1,5 +1,5 @@
 --- 
-title: In-Person Workshop
+title: DigitalArc Highlights
 layout: blank
 permalink: /highlights/
 --- 
@@ -74,12 +74,33 @@ Nav Loop
 
 <div class="grid-container" markdown=1>
  
-# DigitalArc project team and partners practice “history harvest” during spring in-person workshop 
+# DigitalArc Highlights
 
-Midwest community leaders worked toward their digital archiving goals at the DigitalArc In-Person Workshop from May 31-June 1, 2025, in Bloomington, Indiana. Representing Gary, Roberts Settlement, and Oxford, Ohio, the nine attendees learned about the DigitalArc Community Archiving Playbook to weigh which parts of the history harvest format best fit their interests. For the first time, the DigitalArc project team and the project partners met one another in person during this event. 
+## Gary, Indiana Midtown Fest, June 19-22, 2025
 
-On Day 1, partners introduced themselves, the community they represented, their community archiving project, and related goals and projected challenges. DigitalArc members spoke about the historical, social justice driven, and logistical rationale behind the proposed community archiving organization. The next day, partners and team members put the playbook into practice by walking through each station of a hypothetical history harvest event–they checked in “contributors,” tagged objects, collected metadata, and tried out smartphone photography using affordable light boxes.  
+> This is Gary along with core community collaborators kick-off the Voices of Gary, a community-led digital archive and storytelling initiative 
 
-Partners will revisit the lessons from this in-person workshop during the digital workshop series on September 27 and October 25, 2025.  
+As part of Gary Indiana's Midtown Fest, which celebrates Gary's culture and communities, This is Gary! / Voices of Gary participated in this three-day celebration by hosting a Memory Walk showcasing landmarks, people, and events that makeup this town's glorious past and present. The Memory Walk was developed as a way to engage community members in the telling of a particular story that centers a pivotal aspect of Gary -- what they may recall, what they know, and how they may have particpated. It also allowed community partners to promote an upcoming community story-sharing event in August 2025 in which community members can archive their stories as part of the Voices of Gary digital community archive. 
 
- 
+<img src="../assets/highlights/gary_midtown_memorywalk.png" alt="Gary Indiana Midtown Fest Memory Walk Poster" width="300" height="400" style="border: 1px solid \#000; float: left;"> 
+
+<img src="../assets/highlights/gary_midtown_voices.png" alt="Gary Indiana Midtown Fest Voices of Gary Poster" width="300" height="400" style="border: 1px solid \#000; float: right;">
+
+
+## DigitalArc In-Person Workshop, May 29 - June 1, 2025 in Bloomington, Indiana
+
+> DigitalArc project team and partners walkthrough a “history harvest” during summer in-person workshop
+
+Midwest community leaders worked toward their digital archiving goals at the DigitalArc In-Person Workshop from May 31-June 1, 2025, in Bloomington, Indiana. The focus on this worksop was community and collections. Representing Gary, Indiana Roberts Settlement in Indiana, and Oxford, Ohio, the nine attendees shared approaches to community archiving and learned about the DigitalArc Community Archiving Playbook to weigh which parts of this adapted history harvest format best fit community interests. For the first time, the DigitalArc project team and the project partners met one another in-person during this event!
+
+On Day 1, partners introduced themselves, the community they represented, their community archiving project, and related goals and projected challenges. DigitalArc members spoke about the historical, social justice-driven, and logistical rationale behind DigitalArc philosophy, platform and toolkit. The next day, partners and team members put the Playbook into practice by walking through each station of a hypothetical history harvest event–they checked in “contributors,” tagged objects, collected metadata, and tried out smartphone photography using affordable light boxes. 
+
+Learn more about the playbook and the process by visiting the [DigitalArc Toolkit documentation](https://digitalarcplatform.github.io/documentation/), which is a work-in-progress.
+
+<img src="../assets/highlights/slide1.JPG" alt="Michelle Dalmau leads introductions to DigitalArc In-Person Workshop." width="300" height="400" style="border: 1px solid \#000; float: left;"> 
+<img src="../assets/highlights/slide2.JPG" alt="McKenya Dilworth introduces herself to Oxford, OH and Roberts Settlement Partners." width="300" height="400" style="border: 1px solid \#000; float: left;"> 
+<img src="../assets/highlights/slide3.JPG" alt="Gary Partners Maya Etienne, Joslyn Washington Kelly, and McKenya Dilworth walk through the check-in station to practice leading a History Harvest." width="300" height="400" style="border: 1px solid \#000; float: left;"> 
+<img src="../assets/highlights/slide4.JPG" alt="Dr. Jazma Sutton speaks about her research on descendant archival practices." width="300" height="400" style="border: 1px solid \#000; float: left;">
+<img src="../assets/highlights/slide5.JPG" alt="Workshop attendees and organizers." width="300" height="400" style="border: 1px solid \#000; float: left;"> 
+<img src="../assets/highlights/slide6.JPG" alt="Bryan Glover, Vice President of Roberts Settlement, announces upcoming Homecoming." width="300" height="400" style="border: 1px solid \#000; float: left;"> 
+<img src="../assets/highlights/slide7.JPG" alt="Dr. Kalani Craig addresses the importance of metadata in organizing object photographs." width="300" height="400" style="border: 1px solid \#000; float: left;"> 
