@@ -78,15 +78,15 @@ Nav Loop
 
 ## Gary, Indiana Midtown Fest, June 19-22, 2025
 
-> This is Gary along with core community collaborators kick-off the Voices of Gary, a community-led digital archive and storytelling initiative 
-
-<p>As part of Gary Indiana's Midtown Fest, which celebrates Gary's culture and communities, This is Gary! / Voices of Gary participated in this three-day celebration by hosting a Memory Walk showcasing landmarks, people, and events that makeup this town's glorious past and present. The Memory Walk was developed as a way to engage community members in the telling of a particular story that centers a pivotal aspect of Gary -- what they may recall, what they know, and how they may have particpated. It also allowed community partners to promote an upcoming community story-sharing event in August 2025 in which community members can archive their stories as part of the Voices of Gary digital community archive.</p> 
+> This is Gary along with core community collaborators kick-off the Voices of Gary, a community-led digital archive and storytelling initiative
 
 <p>
 <img src="../assets/highlights/gary_midtown_memorywalk.png" alt="Gary Indiana Midtown Fest Memory Walk Poster" width="300" height="400" style="border: 1px solid \#000; float: left; padding: .5em;"> 
 
 <img src="../assets/highlights/gary_midtown_voices.png" alt="Gary Indiana Midtown Fest Voices of Gary Poster" width="300" height="400" style="border: 1px solid \#000; float: right; padding: .5em;">
 </p>
+
+<p>As part of Gary Indiana's Midtown Fest, which celebrates Gary's culture and communities, This is Gary! / Voices of Gary participated in this three-day celebration by hosting a Memory Walk showcasing landmarks, people, and events that makeup this town's glorious past and present. The Memory Walk was developed as a way to engage community members in the telling of a particular story that centers a pivotal aspect of Gary -- what they may recall, what they know, and how they may have particpated. It also allowed community partners to promote an upcoming community story-sharing event in August 2025 in which community members can archive their stories as part of the Voices of Gary digital community archive.</p> 
 
 ## DigitalArc In-Person Workshop, May 29 - June 1, 2025 in Bloomington, Indiana
 
