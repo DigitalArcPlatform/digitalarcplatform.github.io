@@ -75,6 +75,7 @@ Nav Loop
 <div class="grid-container" markdown=1>
  
 # DigitalArc Highlights
+{: .subheadline }
 
 ## Gary, Indiana Midtown Fest, June 19-22, 2025
 
