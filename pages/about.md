@@ -142,10 +142,11 @@ We have several key dates for community partners to note:
 
 - **May 29 – June 1, 2025**: Multi-day, hands-on workshop on the process  
 - **June/July/August 2025**: Community-led event for collecting stories
-- **March/April 2026**: Virtual workshop focusing on next steps  
+- **September/October 2025 & January 2026**: Virtual workshop focusing on next steps  
 - **April/May 2026**: Launch of your digital community archive
 
 These dates are fixed to a grant timeline though we may need to shift here and there by a week or two.  **_The May 29 – June 1, 2025 workshop dates are set_**.  
+
 ### Where?
 <a id="where"></a>
 The community archiving work will happen primarily **_in your communities_** – at a church, local library, school, home of a community member, a community-run festival or celebration. You will have remote support from the DigitalArc project team.  
