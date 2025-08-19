@@ -75,7 +75,8 @@ Nav Loop
 
 <div class="grid-container" markdown=1>
   
-# DigitalArc's Values
+# DigitalArc Values
+{: .subheadline }
 
 ## 1. Community Ownership and Control
 
