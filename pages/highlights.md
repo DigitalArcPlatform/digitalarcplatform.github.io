@@ -88,6 +88,8 @@ Nav Loop
 
 As part of Gary Indiana's Midtown Fest, which celebrates Gary's culture and communities, This is Gary! / Voices of Gary participated in this three-day celebration by hosting a Memory Walk showcasing landmarks, people, and events that makeup this town's glorious past and present. The Memory Walk was developed as a way to engage community members in the telling of a particular story that centers a pivotal aspect of Gary -- what they may recall, what they know, and how they may have particpated. It also allowed community partners to promote an upcoming community story-sharing event in August 2025 in which community members can archive their stories as part of the Voices of Gary digital community archive.
 
+
+
 ## DigitalArc In-Person Workshop, May 29 - June 1, 2025 in Bloomington, Indiana
 
 > DigitalArc project team and partners walkthrough a “history harvest” during summer in-person workshop
@@ -96,7 +98,8 @@ Midwest community leaders worked toward their digital archiving goals at the Dig
 
 On Day 1, partners introduced themselves, the community they represented, their community archiving project, and related goals and projected challenges. DigitalArc members spoke about the historical, social justice-driven, and logistical rationale behind DigitalArc philosophy, platform and toolkit. The next day, partners and team members put the Playbook into practice by walking through each station of a hypothetical history harvest event–they checked in “contributors,” tagged objects, collected metadata, and tried out smartphone photography using affordable light boxes.
 
-Learn more about the playbook and the process by visiting the [DigitalArc Toolkit documentation](https://digitalarcplatform.github.io/documentation/), which is a work-in-progress.
+Learn more about the playbook and the process by visiting the 
+[DigitalArc Toolkit documentation](https://digitalarcplatform.github.io/documentation/), which is a work-in-progress.
 
 <img src="../assets/highlights/slide1.JPG" alt="Michelle Dalmau leads introductions to DigitalArc In-Person Workshop." width="300" height="400" style="border: 1px solid \#000; float: left; padding: .5em;"> 
 <img src="../assets/highlights/slide2.JPG" alt="McKenya Dilworth introduces herself to Oxford, OH and Roberts Settlement Partners." width="300" height="400" style="border: 1px solid \#000; float: left; padding: .5em;"> 
