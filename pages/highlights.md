@@ -1,5 +1,5 @@
 --- 
-title: In-Person Workshop
+title: DigitalArc Highlights
 layout: blank
 permalink: /highlights/
 --- 
