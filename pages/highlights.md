@@ -81,7 +81,7 @@ As part of Gary Indiana's Midtown Fest, which celebrates Gary's culture and comm
 
 <img src="../assets/highlights/gary_midtown_memorywalk.png" alt="Gary Indiana Midtown Fest Memory Walk Poster" width="300" height="400" style="border: 1px solid \#000; float: left;"> 
 
-<img src="../assets/highlights/gary_midtown_memorywalk.png" alt="Gary Indiana Midtown Fest Memory Walk Poster" width="300" height="400" style="border: 1px solid \#000; float: right;">
+<img src="../assets/highlights/gary_midtown_voices.png" alt="Gary Indiana Midtown Fest Voices of Gary Poster" width="300" height="400" style="border: 1px solid \#000; float: right;">
 
 
 ## DigitalArc In-Person Workshop, May 29 - June 1, 2025 in Bloomington, Indiana
