@@ -170,17 +170,20 @@ The DigitalArc project team is made up of folks affiliated with Indiana Universi
 
 ### Core Project Team
 <a id="core_team"></a>
-#### Kalani Craig (she/her)
-Kalani Craig is Associate Professor of History at Indiana University Bloomington. Kalani’s work is rooted in public history and is a lead collaborator in digital community archiving work. Kalani is the creator of the DigitalArc publishing platform and will lead platform refinement as part of this project. Kalani serves as Co-PI on the project.   
-
 #### Michelle Dalmau (she/her/ella)
 Michelle Dalmau is Director of Digital Collections and Digitization Services for the Indiana University Libraries at Indiana University Bloomington. Michelle has a personal connection to community archiving work as a second-generation immigrant and first-generation college student. She is a lead collaborator in digital community archiving work. Michelle is managing the overall grant, including project management, and she’s leading the Indiana community archiving initiative. Michelle serves as PI on the project.    
 
-#### Claudia Gonzalez-Diaz (she/her) 
-Claudia Gonzalez-Diaz is a graduate student in the History of Art Department at Tulane University. Claudia is the DigitalArc Project Manager, a position she shares with Alec Smitten, assisting with supporting community partners in digital archiving planning and implementation work including support for post-processing stories captured and publishing the digital archive web site. Prior to assuming the role of DigitalArc Project Manager, Claudia curated and implemented a physical and digital exhibition, _Home Bound_, using an earlier version of the DigitalArc platform. 
+#### Jazma Sutton (she/her)
+Jazma Sutton is an Assistant Professor of History at Miami University of Ohio. Her research focuses on the histories of slavery and freedom in the U.S. with a particular interest in African American women’s history and the Midwest. Jazma has been leading work in descendant archival practices within African American communities by incorporating Black digital humanities and critical archival studies. She is a lead collaborator in digital community archiving efforts and will be leading the Ohio community archiving initiative. Jazma serves as Co-PI on the project. 
 
 #### Vanessa Elias (she/her/ella)
 Vanessa Elias is an Information Specialist for the Digital Humanities and User Engagement department at the University of Texas at San Antonio Libraries and Museums.  Vanessa is leading the toolkit documentation, from pre-event to publishing, making sure it makes sense for community members. Vanessa serves as Co-PI on the project. 
+
+#### Kalani Craig (she/her)
+Kalani Craig is Associate Professor of History at University of Illinois Urbana-Champaign and was Associate Professor of History at Indiana University Bloomington until July of 2025. Kalani’s work is rooted in public history and she is a lead collaborator in digital community archiving work. Kalani is the creator of the DigitalArc publishing platform and will lead platform refinement as part of this project. Kalani serves as Co-PI on the project.   
+
+#### Claudia Gonzalez-Diaz (she/her) 
+Claudia Gonzalez-Diaz is a graduate student in the History of Art Department at Tulane University. Claudia is the DigitalArc Project Manager, a position she shares with Alec Smitten, assisting with supporting community partners in digital archiving planning and implementation work including support for post-processing stories captured and publishing the digital archive web site. Prior to assuming the role of DigitalArc Project Manager, Claudia curated and implemented a physical and digital exhibition, _Home Bound_, using an earlier version of the DigitalArc platform. 
 
 #### Nate Howard (he/him) 
 Nate Howard is the Digital Methods Specialist for the Institute for Advanced Studies, Indiana University Bloomington and a PhD candidate in History. His research applies digital methods to the study of early medieval pilgrimage accounts of Islamic Palestine. Nate is co-leading publishing platform development. 
@@ -190,9 +193,6 @@ Lexis Shoulta is a history major and future librarian with an interest in digita
 
 #### Alec Smitten (he/him)
 Alec Smitten is a PhD student in the Classics Department at Indiana University Bloomington. Alec is the DigitalArc Project Manager, a position he shares with Claudia Gonzalez-Diaz, assisting with supporting community partners in digital archiving planning and implementation work including support for post-processing stories captured and publishing the digital archive web site. Prior to assuming the role of DigitalArc Project Manager, Alec contributed to the development of the DigitalArc toolkit documentation.  
-
-#### Jazma Sutton (she/her)
-Jazma Sutton is an Assistant Professor of History at Miami University of Ohio. Her research focuses on the histories of slavery and freedom in the U.S. with a particular interest in African American women’s history and the Midwest. Jazma has been leading work in descendant archival practices within African American communities by incorporating Black digital humanities and critical archival studies. She is a lead collaborator in digital community archiving efforts and will be leading the Ohio community archiving initiative. Jazma serves as Co-PI on the project. 
 
 ### Project Advisors
 <a id="advisors"></a>
