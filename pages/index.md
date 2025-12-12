@@ -152,6 +152,12 @@ _This list is slowly growing as we develop relationship with community and campu
         <figcaption class="orbit-caption">Dr. Kalani Craig addresses the importance of metadata in organizing object photographs.</figcaption>
       </figure>
     </li>
+	    <li class="orbit-slide is-active">
+      <figure class="orbit-figure">
+        <img class="orbit-image" src="assets/highlights/slide8.jpeg" alt="9/27 Zoom Meeting">
+        <figcaption class="orbit-caption">Community Members and the DigitalArc team pose for a "photograph" after the 9/27 Zoom workshop.</figcaption>
+      </figure>
+    </li>
   </ul>
   </div>
   <nav class="orbit-bullets">
@@ -165,6 +171,7 @@ _This list is slowly growing as we develop relationship with community and campu
     <button data-slide="4"><span class="show-for-sr">Fifth slide details.</span></button>
     <button data-slide="5"><span class="show-for-sr">Sixth slide details.</span></button>
     <button data-slide="6"><span class="show-for-sr">Seventh slide details.</span></button>
+	<button data-slide="7"><span class="show-for-sr">Eighth slide details.</span></button>
   </nav>
 </div>
 
