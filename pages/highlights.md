@@ -81,7 +81,7 @@ Nav Loop
 
 > DigitalArc project team and partners walk through the process of setting up their own personal websites using the DigitalArc template
 
-<img src="../assets/highlights/slide8.jpeg" alt="Screenshot of the DigitalArc team and participants" width="300" height="400" style="border: 1px solid \#000; float: left; padding: .5em;"> 
+<img src="../assets/highlights/slide8.jpeg" alt="Screenshot of the DigitalArc team and participants" width="300" height="400" style="border: 1px solid \#000; float: right; padding: .5em;"> 
 
 As a followup to the previous in-person workshop, the DigitalArc team supported community members in the process of setting up their own GitHub accounts with the DigitalArc template. Over the course of the workshop, communtiy members were introduced to the basics of working in the GitHub web environment and the principles of customizing their own digital archive. By the end of the workshop, every participant had successfully created and accessed a sample website for themselves, with the itention of using this website as a testing ground for their larger community archives. 
 
