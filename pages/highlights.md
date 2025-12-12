@@ -77,6 +77,15 @@ Nav Loop
 # DigitalArc Highlights
 {: .subheadline }
 
+## DigitalArc Digital Workshop, September 27, 2025
+
+> DigitalArc project team and partners walk through the process of setting up their own personal websites using the DigitalArc template
+
+<img src="../assets/highlights/slide8.jpeg" alt="Screenshot of the DigitalArc team and participants" width="300" height="400" style="border: 1px solid \#000; float: left; padding: .5em;"> 
+
+As a followup to the previous in-person workshop, the DigitalArc team supported community members in the process of setting up their own GitHub accounts with the DigitalArc template. Over the course of the workshop, communtiy members were introduced to the basics of working in the GitHub web environment and the principles of customizing their own digital archive. By the end of the workshop, every participant had successfully created and accessed a sample website for themselves. 
+
+
 ## Gary, Indiana Midtown Fest, June 19-22, 2025
 
 > This is Gary along with core community collaborators kick-off the Voices of Gary, a community-led digital archive and storytelling initiative
@@ -105,11 +114,11 @@ Representing Gary, Indiana Roberts Settlement in Indiana, and Oxford, Ohio, the 
 
 We set forth a reading list to guide our conversations for the day:
 
-	- Berry, Dorothy. The Dorothy Berry Collection of What Are We Black Archives, Syllabus Project, 2023, https://syllabusproject.org/what-are-black-archives/. Accessed May 8, 2025.
-    - Drake, Jarrett M. “#ArchivesForBlackLives: Building a Community Archives of Police Violence in Cleveland.” Medium, 22 April 2016. https://medium.com/on-archivy/archivesforblacklives-building-a-community-archives-of-police-violence-in-cleveland-93615d777289
-    - Sutton, Jazma. “’Go to the Attics, the Closets, and the Basements’: Black Women’s Intergenerational Practices of Memory Keeping in Oxford, Ohio.” Genealogy, vol. 8, no. 3, 2024. https://www.mdpi.com/2909084.
-    - Wingo, Rebecca S., et al. “Harvesting History, Remembering Rondo.” Digital Community Engagement: Partnering Communities with the Academy. University of Cincinnati Press, 2020, 10.34314/wingodigital.00004. Accessed May 10, 2025.
-      “Remembering Rondo: A History Harvest,” Rondo Avenue, Inc. And Macalester College, https://omeka.macalester.edu/rondo/. Accessed May 10, 2025.
+- Berry, Dorothy. The Dorothy Berry Collection of What Are We Black Archives, Syllabus Project, 2023, https://syllabusproject.org/what-are-black-archives/. Accessed May 8, 2025.
+- Drake, Jarrett M. “#ArchivesForBlackLives: Building a Community Archives of Police Violence in Cleveland.” Medium, 22 April 2016. https://medium.com/on-archivy/archivesforblacklives-building-a-community-archives-of-police-violence-in-cleveland-93615d777289
+- Sutton, Jazma. “’Go to the Attics, the Closets, and the Basements’: Black Women’s Intergenerational Practices of Memory Keeping in Oxford, Ohio.” Genealogy, vol. 8, no. 3, 2024. https://www.mdpi.com/2909084.
+- Wingo, Rebecca S., et al. “Harvesting History, Remembering Rondo.” Digital Community Engagement: Partnering Communities with the Academy. University of Cincinnati Press, 2020, 10.34314/wingodigital.00004. Accessed May 10, 2025. 
+- “Remembering Rondo: A History Harvest,” Rondo Avenue, Inc. And Macalester College, https://omeka.macalester.edu/rondo/. Accessed May 10, 2025.
 	  
 See also the [introductory slides]({{site.url}}{{site.baseurl}}/assets/workshops/2025-05CommunityandCollections/introSlides.pdf) for the workshop.
 	  
