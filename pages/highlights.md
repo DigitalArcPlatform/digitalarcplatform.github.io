@@ -94,8 +94,25 @@ As part of Gary Indiana's Midtown Fest, which celebrates Gary's culture and comm
 
 > DigitalArc project team and partners walkthrough a “history harvest” during summer in-person workshop
 
-Midwest community leaders worked toward their digital archiving goals at the DigitalArc In-Person Workshop from May 31-June 1, 2025, in Bloomington, Indiana. The focus on this worksop was community and collections. Representing Gary, Indiana Roberts Settlement in Indiana, and Oxford, Ohio, the nine attendees shared approaches to community archiving and learned about the DigitalArc Community Archiving Playbook to weigh which parts of this adapted history harvest format best fit community interests. For the first time, the DigitalArc project team and the project partners met one another in-person during this event!
+Midwest community leaders worked toward their digital archiving goals at the DigitalArc In-Person Workshop from May 31-June 1, 2025, in Bloomington, Indiana. The focus on this worksop was community and collections with the following learning objectives:
 
+1. Exploring approaches to community archiving, including privacy and ethical considerations
+1. Learning about partner projects and consider digital archiving models for engaging with community members
+1. Experiencing an adapted version of the “history harvest model” for documenting community stories
+1. Highlighting project management considerations when planning and implementing a community-led digital archiving project
+
+Representing Gary, Indiana Roberts Settlement in Indiana, and Oxford, Ohio, the nine attendees shared approaches to community archiving and learned about the DigitalArc Community Archiving Playbook to weigh which parts of this adapted history harvest format best fit community interests. For the first time, the DigitalArc project team and the project partners met one another in-person during this event!
+
+We set forth a reading list to guide our conversations for the day:
+
+	- Berry, Dorothy. The Dorothy Berry Collection of What Are We Black Archives, Syllabus Project, 2023, https://syllabusproject.org/what-are-black-archives/. Accessed May 8, 2025.
+    - Drake, Jarrett M. “#ArchivesForBlackLives: Building a Community Archives of Police Violence in Cleveland.” Medium, 22 April 2016. https://medium.com/on-archivy/archivesforblacklives-building-a-community-archives-of-police-violence-in-cleveland-93615d777289
+    - Sutton, Jazma. “’Go to the Attics, the Closets, and the Basements’: Black Women’s Intergenerational Practices of Memory Keeping in Oxford, Ohio.” Genealogy, vol. 8, no. 3, 2024. https://www.mdpi.com/2909084.
+    - Wingo, Rebecca S., et al. “Harvesting History, Remembering Rondo.” Digital Community Engagement: Partnering Communities with the Academy. University of Cincinnati Press, 2020, 10.34314/wingodigital.00004. Accessed May 10, 2025.
+      “Remembering Rondo: A History Harvest,” Rondo Avenue, Inc. And Macalester College, https://omeka.macalester.edu/rondo/. Accessed May 10, 2025.
+	  
+See also the [introductory slides]({{site.url}}{{site.baseurl}}/assets/workshops/2025-05CommunityandCollections/introSlides.pdf) for the workshop.
+	  
 On Day 1, partners introduced themselves, the community they represented, their community archiving project, and related goals and projected challenges. DigitalArc members spoke about the historical, social justice-driven, and logistical rationale behind DigitalArc philosophy, platform and toolkit. The next day, partners and team members put the Playbook into practice by walking through each station of a hypothetical history harvest event–they checked in “contributors,” tagged objects, collected metadata, and tried out smartphone photography using affordable light boxes.
 
 Learn more about the playbook and the process by visiting the 
