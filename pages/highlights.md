@@ -85,7 +85,7 @@ Nav Loop
 
 As a followup to the previous in-person workshop, the DigitalArc team supported community members in the process of setting up their own GitHub accounts with the DigitalArc template. Over the course of the workshop, communtiy members were introduced to the basics of working in the GitHub web environment and the principles of customizing their own digital archive. By the end of the workshop, every participant had successfully created and accessed a sample website for themselves, with the itention of using this website as a testing ground for their larger community archives. 
 
-See also our [informational slides]({{site.url}}{{site.baseurl}}/assets/workshops/2025-09SettingUpDigitalArc/2025-09 Virtual Workshop.pdf) that detail the process of copying and configuring the DigitalArc template. 
+See also our [informational slides]({{site.url}}{{site.baseurl}}/assets/workshops/2025-09SettingUpDigitalArc/2025-09 Virtual Workshop.pdf) that detail the process of copying and configuring the DigitalArc template and our [YouTube playlist](https://www.youtube.com/playlist?list=PLuHqqEdy1Iz2Mc-56aDtXVOSUd2A0epft) that features the recordings from the workshop. 
 
 ## Gary, Indiana Midtown Fest, June 19-22, 2025
 
