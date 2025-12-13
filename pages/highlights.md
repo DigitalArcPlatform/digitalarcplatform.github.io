@@ -77,9 +77,19 @@ Nav Loop
 # DigitalArc Highlights
 {: .subheadline }
 
+## DigitalArc Digital Workshop, October 25, 2025
+
+> DigitalArc team and partners discuss metadata creation and backend organizational details for posting items 
+
+<img src="../assets/highlights/slide9.png" alt="Initial PowerPoint slide of the workshop" width="300" height="400" style="border: 1px solid \#000; float: left; padding: .5em;"> 
+
+In this workshop, the focus was on methodologies for community leaders to work with community members in the collection & creation of metadata. From here, the workshop transitioned to more technical discussions of file organization systems, with an emphasis on flexibility and accessibility, initial steps for preparing transcriptions of oral histories, and the "do's and don't's" of editing photographs. 
+
+For our guide to the collection of metadata, be sure to check out the [DigitalArc documentation](https://digitalarcplatform.github.io/documentation/workshop/metadataguide/).
+
 ## DigitalArc Digital Workshop, September 27, 2025
 
-> DigitalArc project team and partners walk through the process of setting up their own personal websites using the DigitalArc template
+> DigitalArc project team and partners walk through the process of setting up their own personal websites using the template
 
 <img src="../assets/highlights/slide8.jpeg" alt="Screenshot of the DigitalArc team and participants" width="300" height="400" style="border: 1px solid \#000; float: right; padding: .5em;"> 
 
