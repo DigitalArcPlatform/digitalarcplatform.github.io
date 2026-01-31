@@ -77,6 +77,17 @@ Nav Loop
 # DigitalArc Highlights
 {: .subheadline }
 
+## On Display: A 21st-Century Salon des Refusés
+
+> A prime example of how DigitalArc can be used to create different digital archives
+
+<img src="../assets/highlights/onDisplay.png" alt="The front page of the On Display exhibition" width="300" height="400" style="border: 1px solid \#000; float: right; padding: .5em;"> 
+
+Suitable for many forms of archiving, the Jekyll template can also catalogue art exhibitions, such as On Display: A 21st-Century Salon des Refusés on view from August 18 to September 19, 2025, in the Carroll Gallery at Tulane University. Connecting the sculture, painting, and photography of about 30 artists, the curatorial team eschewed selective curatorial practices to explore rejection as a lens for
+interpretation and evaluation. The online platform allowed curators, participating artists, host institutions, and grant donors to revisit the exhibition after its closing. 
+
+[Click here](https://ondisplayattulane.github.io/) to view the exhibition. 
+
 ## DigitalArc Digital Workshop, October 25, 2025
 
 > DigitalArc team and partners discuss metadata creation and backend organizational details for posting items 
