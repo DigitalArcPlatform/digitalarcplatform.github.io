@@ -98,6 +98,8 @@ In this workshop, the focus was on methodologies for community leaders to work w
 
 For our guide to the collection of metadata, be sure to check out the [DigitalArc documentation](https://digitalarcplatform.github.io/documentation/workshop/metadataguide/).
 
+See also our [informational slides]({{site.url}}{{site.baseurl}}/assets/workshops/2025-10PreppingContent/2025-10VirtualWorkshop2.pdf)
+
 ## DigitalArc Digital Workshop, September 27, 2025
 
 > DigitalArc project team and partners walk through the process of setting up their own personal websites using the template
