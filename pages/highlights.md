@@ -77,6 +77,16 @@ Nav Loop
 # DigitalArc Highlights
 {: .subheadline }
 
+## DigitalArc Digital Workshop, February 7, 2026
+
+> Photographs, transcripts, and audio finally populate the partners’ “collections” tabs after this third workshop 
+
+<img src="../assets/highlights/slide10.png" alt="The attendees of the February 7th workshop" width="300" height="400" style="border: 1px solid \#000; float: left; padding: .5em;"> 
+
+DigitalArc partners uploaded their first items to the “collections” tab, a step that relies on the behind-the-scenes labor of metadata collection and file naming learned at previous workshops. This skill makes the community archive organized and accessible to members and the public. The DigitalArc team used the metaphor of learning to drive to explain a file upload: to turn the ignition and park, the first and last steps in driving a car, a new driver needs coaching to know what to do. Meanwhile, pressing the gas pedal feels more intuitive. Similarly, opening GitHub and addressing errors will likely require assistance the first few times, but uploading items eventually becomes like muscle memory. 
+
+For this workshop, participants followed our DigitalArc documentation [available here](https://digitalarcplatform.github.io/documentation/docs/publishSite/posting/). 
+
 ## On Display: A 21st-Century Salon des Refusés
 
 > A prime example of how DigitalArc can be used to create different digital archives
