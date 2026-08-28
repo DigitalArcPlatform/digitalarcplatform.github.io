@@ -34,7 +34,7 @@ Top Bar
 <div class="top-bar accentbg" id="example-menu" style="width: 100%; background-color: #004042">
 <ul class="vertical medium-horizontal dropdown menu menu-hover-lines" data-responsive-menu="accordion medium-dropdown">
 <!--
-==================================================
+=================================================
 Home Link for Mobile
 ================================================== -->
 <li class="accentbg home-nav-small">
