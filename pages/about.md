@@ -5,8 +5,6 @@ permalink: /about/
 ---
 
 # About DigitalArc
-{: .subheadline }
-
 Funded by the [Digital Justice Development Grant program at the American Council on Learned Societies](https://www.acls.org/recent-fellows/?program_id=40090&_project_year=2024), our goal is to provide support for local communities to document and share their own stories, on your terms, through the creation and ongoing management of digital archives. We all have an opportunity to contribute to our local and collective stories, enriching our shared historical record with voices that might otherwise not be heard.
 
 DigitalArc provides adaptable guidelines for documenting histories, from the planning process to collecting the stories, from preparing the stories for personal and community records to publishing the stories.
@@ -131,5 +129,5 @@ Jeremy Pekarek is an Assistant Librarian/Archivist at Indiana University Northwe
 #### Alia Levar Wegner (she/her)  
 Alia is the Digital Collections Librarian at Miami University’s Walter Havighurst Special Collections and University Archives where she oversees the digitization of special collections materials, develops digital collections, and collaborates on digital humanities projects. She received her Master's degree in Information from Florida State University and a Master's of Science in Book History and Material Cultures from the University of Edinburgh.  
 
-# Open Peer Review Acknowledgements
+## Open Peer Review Acknowledgements
 During the Spring of 2026, the DigitalArc Team issued an open peer review call of the [DigitalArc Toolkit](https://digitalarcplatform.github.io/documentation/). We would like to wholeheartedly thank the many people who took the time to review and provide feedback. Your thoughtfulness and insight are invaluable to the toolkit and our process. We would like to personally thank Evan Gatti (Elon University), Katherine Prater (The Metropolitan Museum of Art), James Connolly (Ball State University), Ellen Holmes Pearson (UNC Asheville), and all of our anonymous reviewers for taking the time to review and comment on the DigitalArc Toolkit. We are immensely grateful for your contributions and your support.
