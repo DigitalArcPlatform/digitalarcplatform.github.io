@@ -72,10 +72,9 @@ We have several key dates for community partners to note:
 
 - **May 29 – June 1, 2025**: Multi-day, hands-on workshop on the process  
 - **June/July/August/September 2025**: Community-led event for collecting stories
-- **September/October 2025/January 2026**: Virtual workshop focusing on next steps  
-- **April/May 2026**: Launch of your digital community archive
+- **September/October 2025 & January/February 2026**: Virtual workshop focusing on next steps  
+- **April/May 2027**: Launch of your digital community archive
 
-These dates are fixed to a grant timeline though we may need to shift here and there by a week or two.  **_The May 29 – June 1, 2025 workshop dates are set_**.  
 
 ### Where?
 <a id="where"></a>
@@ -131,3 +130,6 @@ Jeremy Pekarek is an Assistant Librarian/Archivist at Indiana University Northwe
 
 #### Alia Levar Wegner (she/her)  
 Alia is the Digital Collections Librarian at Miami University’s Walter Havighurst Special Collections and University Archives where she oversees the digitization of special collections materials, develops digital collections, and collaborates on digital humanities projects. She received her Master's degree in Information from Florida State University and a Master's of Science in Book History and Material Cultures from the University of Edinburgh.  
+
+# Open Peer Review Acknowledgements
+During the Spring of 2026, the DigitalArc Team issued an open peer review call of the [DigitalArc Toolkit](https://digitalarcplatform.github.io/documentation/). We would like to wholeheartedly thank the many people who took the time to review and provide feedback. Your thoughtfulness and insight are invaluable to the toolkit and our process. We would like to personally thank Evan Gatti (Elon University), Katherine Prater (The Metropolitan Museum of Art), James Connolly (Ball State University), Ellen Holmes Pearson (UNC Asheville), and all of our anonymous reviewers for taking the time to review and comment on the DigitalArc Toolkit. We are immensely grateful for your contributions and your support.
