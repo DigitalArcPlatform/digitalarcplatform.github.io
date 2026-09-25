@@ -124,7 +124,7 @@ _This list is slowly growing as we develop relationship with community and campu
     </li>  
 	  <li class="orbit-slide is-active">
       <figure class="orbit-figure">
-        <img class="orbit-image" src="assets/highlights/MidwestHistoryConf_02.jpg" alt="Jacqueline Johnson introduced the Bethel A.M.E. Oxford, Ohio communinity project at the Midwestern History Conference.">
+        <img class="orbit-image" src="assets/highlights/MidwestHistoryConf_02.jpg" alt="Jacqueline Johnson introduces the Bethel A.M.E. Oxford, Ohio communinity project at the Midwestern History Conference.">
         <figcaption class="orbit-caption">Jacqueline Johnson introduced the Bethel A.M.E. Oxford, Ohio communinity project the Midwestern History Conference.</figcaption>
       </figure>
     </li>  
