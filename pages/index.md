@@ -110,6 +110,48 @@ _This list is slowly growing as we develop relationship with community and campu
         <button class="orbit-next"><span class="show-for-sr">Next Slide</span>&#9654;&#xFE0E;</button>
       </div>
   <ul class="orbit-container">
+	   <li class="orbit-slide is-active">
+      <figure class="orbit-figure">
+        <img class="orbit-image" src="assets/highlights/LACDH_Symposium_02.jpg" alt="Vanessa Elias presenting at the LACDH symposium.">
+        <figcaption class="orbit-caption">Vanessa Elias presenting a paper about the La Casa/Latino Cultural Center and DigitalArc at the Latin American & Caribbean Digital Humanities Symposium in November 2025.</figcaption>
+      </figure>
+    </li>
+	  <li class="orbit-slide is-active">
+      <figure class="orbit-figure">
+        <img class="orbit-image" src="assets/highlights/MidwestHistoryConf_01.jpg" alt="Dr. Jazma Sutton open up the DigitalArc panel presentation at the Midwestern History Conference.">
+        <figcaption class="orbit-caption">Dr. Jazma Sutton open up the DigitalArc panel presentation at the Midwestern History Conference.</figcaption>
+      </figure>
+    </li>  
+	  <li class="orbit-slide is-active">
+      <figure class="orbit-figure">
+        <img class="orbit-image" src="assets/highlights/MidwestHistoryConf_02.jpg" alt="Jacqueline Johnson introduced the Bethel A.M.E. Oxford, Ohio communinity project at the Midwestern History Conference.">
+        <figcaption class="orbit-caption">Jacqueline Johnson introduced the Bethel A.M.E. Oxford, Ohio communinity project the Midwestern History Conference.</figcaption>
+      </figure>
+    </li>  
+	  <li class="orbit-slide is-active">
+      <figure class="orbit-figure">
+        <img class="orbit-image" src="assets/highlights/MidwestHistoryConf_03.jpg" alt="Bryan Glover introduces the Roberts Settlement communinity project at the Midwestern History Conference.">
+        <figcaption class="orbit-caption">Bryan Glover introduces the Roberts Settlement communinity project at the Midwestern History Conference.</figcaption>
+      </figure>
+    </li>  
+	  <li class="orbit-slide is-active">
+      <figure class="orbit-figure">
+        <img class="orbit-image" src="assets/highlights/MidwestHistoryConf_04.jpg" alt="Dr. Kalani Craig and Joslyn Kelly from Voices of Gary Collective at the Midwestern History Conference.">
+        <figcaption class="orbit-caption">Dr. Kalani Craig and Joslyn Kelly from Voices of Gary Collective at the Midwestern History Conference.</figcaption>
+      </figure>
+    </li>  
+	   <li class="orbit-slide is-active">
+      <figure class="orbit-figure">
+        <img class="orbit-image" src="assets/highlights/MidwestHistoryConf_05.jpg" alt="The DigitalArc crew enjoying dinner after our panel presentation, (left to right): Bryan Glover, Michelle Dalmau, Dr. Kalani Craig, Joslyn Kelly and Samuel Love.">
+        <figcaption class="orbit-caption">The DigitalArc crew enjoying dinner after our panel presentation, (left to right): Bryan Glover, Michelle Dalmau, Dr. Kalani Craig, Joslyn Kelly and Samuel Love.</figcaption>
+      </figure>
+    </li>  
+	     <li class="orbit-slide is-active">
+      <figure class="orbit-figure">
+        <img class="orbit-image" src="assets/highlights/slide8.jpeg" alt="9/27 Zoom Meeting">
+        <figcaption class="orbit-caption">Community Members and the DigitalArc team pose for a "photograph" after the 9/27 Zoom workshop.</figcaption>
+      </figure>
+    </li>
     <li class="orbit-slide is-active">
       <figure class="orbit-figure">
         <img class="orbit-image" src="assets/highlights/slide1.JPG" alt="Group">
@@ -151,19 +193,7 @@ _This list is slowly growing as we develop relationship with community and campu
         <img class="orbit-image" src="assets/highlights/slide7.JPG" alt="Photography">
         <figcaption class="orbit-caption">Dr. Kalani Craig addresses the importance of metadata in organizing object photographs.</figcaption>
       </figure>
-    </li>
-	    <li class="orbit-slide is-active">
-      <figure class="orbit-figure">
-        <img class="orbit-image" src="assets/highlights/slide8.jpeg" alt="9/27 Zoom Meeting">
-        <figcaption class="orbit-caption">Community Members and the DigitalArc team pose for a "photograph" after the 9/27 Zoom workshop.</figcaption>
-      </figure>
-    </li>
-	   <li class="orbit-slide is-active">
-      <figure class="orbit-figure">
-        <img class="orbit-image" src="assets/highlights/LACDH_Symposium_01.jpg" alt="Michelle Dalmau presenting at the LACDH symposium.">
-        <figcaption class="orbit-caption">Michelle Dalmau presenting a paper about the La Casa/Latino Cultural Center and DigitalArc at the Latin American & Caribbean Digital Humanities Symposium in November 2025.</figcaption>
-      </figure>
-    </li>
+    </li>	  
   </ul>
   </div>
   <nav class="orbit-bullets">
@@ -179,6 +209,11 @@ _This list is slowly growing as we develop relationship with community and campu
     <button data-slide="6"><span class="show-for-sr">Seventh slide details.</span></button>
 	<button data-slide="7"><span class="show-for-sr">Eighth slide details.</span></button>
 	<button data-slide="8"><span class="show-for-sr">Ninth slide details.</span></button>
+	  <button data-slide="9"><span class="show-for-sr">Tenth slide details.</span></button>
+	  <button data-slide="10"><span class="show-for-sr">Eleventh slide details.</span></button>
+	  <button data-slide="11"><span class="show-for-sr">Twelfth slide details.</span></button>
+	  <button data-slide="12"><span class="show-for-sr">Thirteenth slide details.</span></button>
+	  <button data-slide="12"><span class="show-for-sr">Fourteenth slide details.</span></button>
   </nav>
 </div>
 
