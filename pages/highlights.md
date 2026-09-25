@@ -91,6 +91,13 @@ The DigitalArc Team reviewed all comments in the Google Doc and in the Google Fo
 
 We have begun incorporating some of the feedback into the toolkit, starting with the smaller changes. Comments that address fundamental changes to organizational structure are currently under discussion. Reviewers all acknowledged that the toolkit contains rich documentation, but we need to rethink framing for certain sections and a more approachable structure for interacting with the toolkit. We are tracking all feedback in our GitHub repository, [GitHub issues](https://github.com/DigitalArcPlatform/documentation/issues), so that we all can collectively track progress on changes! 
 
+## Midwestern History Conference, April/May 2026
+
+> Community partners and grant team share what's working and what's not!
+
+Community partners, Jacqueline Johnson, Bryan Glover, Samuel Love and Jaslyn Kelly, participated in a panel presentation with the DigitalArc grant team, Dr. Jazma Sutton, Dr. Kalani Craig and Michelle Dalmau as part of the annual Midwestern History Conference held at Miami University, Oxford, Ohio (which is also the home of community partners, Bethel A.M.E. Church): “Becoming a Community through the Creation of Community Archives: Challenges & Opportunities of Grant Funding the Preservation of Black Midwestern History.” See the [presentation slides](https://github.com/michidalmau/digitalarcplatform.github.io/tree/main/assets/presentations/DigitalArc_PanelPresentation_MidwestHistoryAssocConference_2026-2.pdf) for more information.  
+
+P.S. We learned a lot and had a great time together! <img src="../assets/highlights/MidwestHistoryConf_05.jpg" alt="The DigitalArc crew enjoying dinner after our panel presentation, (left to right): Bryan Glover, Michelle Dalmau, Dr. Kalani Craig, Joslyn Kelly and Samuel Love." width="300" height="400" style="border: 1px solid \#000; float: right; padding: .5em;"> 
 
 ## DigitalArc Digital Workshop, February 7, 2026
 
@@ -112,6 +119,12 @@ Suitable for many forms of archiving, the Jekyll template can also catalogue art
 interpretation and evaluation. The online platform allowed curators, participating artists, host institutions, and grant donors to revisit the exhibition after its closing. 
 
 [Click here](https://ondisplayattulane.github.io/) to view the exhibition. 
+
+## Latin American & Caribbean Digital Humanities Symposium, November 2025
+
+> Learn how the DigitalArc Toolkit has evolved 
+
+Vanessa Elias and Michelle Dalmau presented, “La Casa at Indiana University Bloomington: Creating a Community-Driven Digital Archive in an Institutional Context,,” which explored the balance of a community-led digital archiving approach within an institutional context. The [La Casa/Latino Cultural Center at Indiana University digital archive](https://lacasaiu.github.io/collection) is one of the foundational projects that led to the most recent version of the DigitalArc Toolkit.  See the [presentation slides](https://github.com/michidalmau/digitalarcplatform.github.io/tree/main/assets/presentations/LACDH_2025_LaCasa_Dalmau_Elias_Presentation.pdf) for more information. 
 
 ## DigitalArc Digital Workshop, October 25, 2025
 
