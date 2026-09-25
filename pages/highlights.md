@@ -77,6 +77,21 @@ Nav Loop
 # DigitalArc Highlights
 {: .subheadline }
 
+## Open Peer Review Update: Big Thanks!!!
+> Big thanks to all who reviewed the DigitalArc Toolkit; your feedback was super helpful!
+
+During the Spring of 2026, the DigitalArc Team issued an open peer review call of the [DigitalArc Toolkit](https://digitalarcplatform.github.io/documentation/). We received valuable feedback from many of you! 
+
+The DigitalArc Team reviewed all comments in the Google Doc and in the Google Form. We categorized the comments to help us organize the feedback. The comments largely fell into the following categories:
+
+* organizational structure (providing meaningful pathways through the community archiving process)
+* language (needs to be more accessible and more people-focused)
+* visual design (should include photos of humans-in-action to balance screen shots)
+* technical content (needs to be revised to make it less dense, considering glossaries, too!)
+
+We have begun incorporating some of the feedback into the toolkit, starting with the smaller changes. Comments that address fundamental changes to organizational structure are currently under discussion. Reviewers all acknowledged that the toolkit contains rich documentation, but we need to rethink framing for certain sections and a more approachable structure for interacting with the toolkit. We are tracking all feedback in our GitHub repository, [GitHub issues](https://github.com/DigitalArcPlatform/documentation/issues), so that we all can collectively track progress on changes! 
+
+
 ## DigitalArc Digital Workshop, February 7, 2026
 
 > Photographs, transcripts, and audio finally populate the partners’ “collections” tabs after this third workshop 
