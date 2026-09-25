@@ -160,7 +160,7 @@ _This list is slowly growing as we develop relationship with community and campu
     </li>
 	   <li class="orbit-slide is-active">
       <figure class="orbit-figure">
-        <img class="orbit-image" src="assets/highlights/LACDH_Symposium_01.png" alt="Michelle Dalmau presenting at the LACDH symposium.">
+        <img class="orbit-image" src="assets/highlights/LACDH_Symposium_01.jpg" alt="Michelle Dalmau presenting at the LACDH symposium.">
         <figcaption class="orbit-caption">Michelle Dalmau presenting a paper about the La Casa/Latino Cultural Center and DigitalArc at the Latin American & Caribbean Digital Humanities Symposium in November 2025.</figcaption>
       </figure>
     </li>
