@@ -93,11 +93,13 @@ We have begun incorporating some of the feedback into the toolkit, starting with
 
 ## Midwestern History Conference, April/May 2026
 
-> Community partners and grant team share what's working and what's not!
+> Community partners and grant team share what's working and what's not while having fun together!
+
+<img src="../assets/highlights/MidwestHistoryConf_05.jpg" alt="The DigitalArc crew enjoying dinner after our panel presentation, (left to right): Bryan Glover, Michelle Dalmau, Dr. Kalani Craig, Joslyn Kelly and Samuel Love." width="300" height="400" style="border: 1px solid \#000; float: right; padding: .5em;"> 
 
 Community partners, Jacqueline Johnson, Bryan Glover, Samuel Love and Jaslyn Kelly, participated in a panel presentation with the DigitalArc grant team, Dr. Jazma Sutton, Dr. Kalani Craig and Michelle Dalmau as part of the annual Midwestern History Conference held at Miami University, Oxford, Ohio (which is also the home of community partners, Bethel A.M.E. Church): “Becoming a Community through the Creation of Community Archives: Challenges & Opportunities of Grant Funding the Preservation of Black Midwestern History.” See the [presentation slides](https://github.com/michidalmau/digitalarcplatform.github.io/tree/main/assets/presentations/DigitalArc_PanelPresentation_MidwestHistoryAssocConference_2026-2.pdf) for more information.  
 
-P.S. We learned a lot and had a great time together! <img src="../assets/highlights/MidwestHistoryConf_05.jpg" alt="The DigitalArc crew enjoying dinner after our panel presentation, (left to right): Bryan Glover, Michelle Dalmau, Dr. Kalani Craig, Joslyn Kelly and Samuel Love." width="300" height="400" style="border: 1px solid \#000; float: right; padding: .5em;"> 
+P.S. We learned a lot and had a great time together! 
 
 ## DigitalArc Digital Workshop, February 7, 2026
 
