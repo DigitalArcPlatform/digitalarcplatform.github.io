@@ -158,6 +158,12 @@ _This list is slowly growing as we develop relationship with community and campu
         <figcaption class="orbit-caption">Community Members and the DigitalArc team pose for a "photograph" after the 9/27 Zoom workshop.</figcaption>
       </figure>
     </li>
+	   <li class="orbit-slide is-active">
+      <figure class="orbit-figure">
+        <img class="orbit-image" src="assets/highlights/LACDH_Symposium_01.png" alt="Michelle Dalmau presenting at the LACDH symposium.">
+        <figcaption class="orbit-caption">Michelle Dalmau presenting a paper about the La Casa/Latino Cultural Center and DigitalArc at the Latin American & Caribbean Digital Humanities Symposium in November 2025.</figcaption>
+      </figure>
+    </li>
   </ul>
   </div>
   <nav class="orbit-bullets">
@@ -172,6 +178,7 @@ _This list is slowly growing as we develop relationship with community and campu
     <button data-slide="5"><span class="show-for-sr">Sixth slide details.</span></button>
     <button data-slide="6"><span class="show-for-sr">Seventh slide details.</span></button>
 	<button data-slide="7"><span class="show-for-sr">Eighth slide details.</span></button>
+	<button data-slide="8"><span class="show-for-sr">Ninth slide details.</span></button>
   </nav>
 </div>
 
